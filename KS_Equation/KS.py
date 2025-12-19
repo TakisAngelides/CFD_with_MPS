@@ -53,7 +53,7 @@ class PDE(Parameter):
         #self.u = np.sign(np.cos(self.x))
         self.t = t0
 
-        self.scheme = self.heun
+        self.scheme = self.euler
 
         # attributes used for dynamic plotting
         self.x_line = None

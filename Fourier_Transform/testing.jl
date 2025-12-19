@@ -173,6 +173,7 @@ function mps_to_list(mps; reverse_flag = false)::Vector{promote_itensor_eltype(m
         if reverse_flag
             binary_list = reverse(decimal_to_padded_binary_list(i-1, N))
         else
+            println(i-1, " : ", decimal_to_padded_binary_list(i-1, N))
             binary_list = decimal_to_padded_binary_list(i-1, N) 
         end
         push!(res, tmp[binary_list...])
