@@ -1,0 +1,2 @@
+field,n,method,param,params,bytes,ratio,rms,maxerr,rms_all,phys_rms,phys_relrms,maxrank,time_s,ranks
+grl_thk_ice,13,qtt_int,0.3,288,1152,4.29153e-06,239.968,2244.03,223.42,NaN,NaN,6,8.27,2;4;6;6;5;3;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1

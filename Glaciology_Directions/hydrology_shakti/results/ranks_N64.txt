@@ -1,0 +1,1260 @@
+RANK N64_day120 h 6 interleaved 0.01 2 2,2,2,2,2,2,2,2,2,2,1
+RANK N64_day120 h 6 interleaved 0.001 5 2,3,4,5,5,5,4,4,4,3,2
+RANK N64_day120 h 6 interleaved 0.0001 6 2,3,5,6,5,5,6,6,4,3,2
+RANK N64_day120 h 6 interleaved 1.0e-6 7 2,3,5,6,7,7,6,6,4,3,2
+QTT N64_day120 h 6 interleaved 0.1 2 70 1.553e-02 4.888e-02
+QTT N64_day120 h 6 interleaved 0.03 2 82 6.291e-03 7.993e-02
+QTT N64_day120 h 6 interleaved 0.01 3 100 3.419e-03 8.282e-02
+QTT N64_day120 h 6 interleaved 0.003 5 324 4.754e-04 8.543e-04
+QTT N64_day120 h 6 interleaved 0.001 5 360 2.787e-04 7.984e-04
+QTT N64_day120 h 6 interleaved 0.0003 6 436 6.764e-05 1.987e-04
+QTT N64_day120 h 6 interleaved 0.0001 6 482 2.268e-05 4.289e-05
+QTT N64_day120 h 6 interleaved 3.0e-5 7 532 1.912e-07 4.355e-07
+QTT N64_day120 h 6 interleaved 1.0e-5 7 532 1.912e-07 4.355e-07
+RANK N64_day120 h 6 sequential 0.01 2 2,2,2,2,2,1,1,1,1,1,1
+RANK N64_day120 h 6 sequential 0.001 3 2,3,3,3,3,2,3,3,3,3,2
+RANK N64_day120 h 6 sequential 0.0001 4 2,4,4,4,3,2,3,3,3,3,2
+RANK N64_day120 h 6 sequential 1.0e-6 5 2,4,5,5,3,2,3,3,3,3,2
+QTT N64_day120 h 6 sequential 0.1 2 46 1.553e-02 4.878e-02
+QTT N64_day120 h 6 sequential 0.03 2 52 6.292e-03 8.035e-02
+QTT N64_day120 h 6 sequential 0.01 3 60 3.423e-03 8.326e-02
+QTT N64_day120 h 6 sequential 0.003 3 164 4.859e-04 5.259e-03
+QTT N64_day120 h 6 sequential 0.001 4 176 3.372e-04 5.764e-03
+QTT N64_day120 h 6 sequential 0.0003 4 202 2.391e-05 4.435e-05
+QTT N64_day120 h 6 sequential 0.0001 4 202 2.391e-05 4.435e-05
+QTT N64_day120 h 6 sequential 3.0e-5 5 218 7.125e-06 1.907e-05
+QTT N64_day120 h 6 sequential 1.0e-5 5 234 4.672e-07 2.080e-06
+AMR N64_day120 h 6 0.1 22 0 32 3.088e-02 9.353e-02
+AMR N64_day120 h 6 0.03 196 128 16 1.128e-02 1.533e-02
+AMR N64_day120 h 6 0.01 292 128 16 5.070e-03 8.365e-03
+AMR N64_day120 h 6 0.003 592 384 8 1.903e-03 2.890e-03
+AMR N64_day120 h 6 0.001 1024 640 4 6.168e-04 9.620e-04
+AMR N64_day120 h 6 0.0003 1984 1280 2 1.850e-04 2.879e-04
+AMR N64_day120 h 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day120 h 6 0.01 2048 2050
+TAG N64_day120 h 6 0.05 320 430
+RANK N64_day120 N 6 interleaved 0.01 2 2,2,2,2,2,2,1,1,1,1,1
+RANK N64_day120 N 6 interleaved 0.001 3 2,2,3,3,2,2,3,3,2,2,1
+RANK N64_day120 N 6 interleaved 0.0001 5 2,2,4,4,5,5,4,4,2,2,1
+RANK N64_day120 N 6 interleaved 1.0e-6 6 2,2,4,4,6,6,4,4,2,2,1
+QTT N64_day120 N 6 interleaved 0.1 2 34 2.810e-02 4.762e-01
+QTT N64_day120 N 6 interleaved 0.03 2 58 7.811e-03 1.674e-01
+QTT N64_day120 N 6 interleaved 0.01 2 70 3.472e-03 6.356e-02
+QTT N64_day120 N 6 interleaved 0.003 3 128 9.274e-04 1.927e-02
+QTT N64_day120 N 6 interleaved 0.001 3 140 3.341e-04 6.867e-03
+QTT N64_day120 N 6 interleaved 0.0003 5 252 1.509e-06 2.217e-05
+QTT N64_day120 N 6 interleaved 0.0001 5 252 1.509e-06 2.217e-05
+QTT N64_day120 N 6 interleaved 3.0e-5 5 252 1.509e-06 2.217e-05
+QTT N64_day120 N 6 interleaved 1.0e-5 5 252 1.509e-06 2.217e-05
+RANK N64_day120 N 6 sequential 0.01 2 2,2,2,1,1,1,1,1,1,1,1
+RANK N64_day120 N 6 sequential 0.001 3 2,3,2,3,2,1,1,1,1,1,1
+RANK N64_day120 N 6 sequential 0.0001 5 2,4,5,4,2,1,1,1,1,1,1
+RANK N64_day120 N 6 sequential 1.0e-6 6 2,4,6,4,2,1,1,1,1,1,1
+QTT N64_day120 N 6 sequential 0.1 2 28 2.810e-02 4.762e-01
+QTT N64_day120 N 6 sequential 0.03 2 40 7.811e-03 1.674e-01
+QTT N64_day120 N 6 sequential 0.01 2 46 3.472e-03 6.356e-02
+QTT N64_day120 N 6 sequential 0.003 3 80 3.341e-04 6.867e-03
+QTT N64_day120 N 6 sequential 0.001 3 80 3.341e-04 6.867e-03
+QTT N64_day120 N 6 sequential 0.0003 5 132 1.509e-06 2.217e-05
+QTT N64_day120 N 6 sequential 0.0001 5 132 1.509e-06 2.217e-05
+QTT N64_day120 N 6 sequential 3.0e-5 5 132 1.509e-06 2.217e-05
+QTT N64_day120 N 6 sequential 1.0e-5 5 132 1.509e-06 2.217e-05
+AMR N64_day120 N 6 0.1 94 0 32 7.631e-03 6.772e-02
+AMR N64_day120 N 6 0.03 232 128 16 2.217e-03 2.911e-02
+AMR N64_day120 N 6 0.01 544 256 8 7.688e-04 9.829e-03
+AMR N64_day120 N 6 0.003 1120 768 4 2.233e-04 2.422e-03
+AMR N64_day120 N 6 0.001 1888 1152 2 7.727e-05 9.980e-04
+AMR N64_day120 N 6 0.0003 3424 3200 2 2.624e-05 2.976e-04
+AMR N64_day120 N 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day120 N 6 0.01 2240 2512
+TAG N64_day120 N 6 0.05 512 694
+RANK N64_day120 b 6 interleaved 0.01 2 2,2,2,2,2,2,2,2,1,1,1
+RANK N64_day120 b 6 interleaved 0.001 3 2,2,3,3,3,3,3,3,2,2,1
+RANK N64_day120 b 6 interleaved 0.0001 5 2,2,4,4,5,5,4,4,2,2,1
+RANK N64_day120 b 6 interleaved 1.0e-6 6 2,2,4,4,6,6,4,4,2,2,1
+QTT N64_day120 b 6 interleaved 0.1 2 58 1.476e-02 1.113e-01
+QTT N64_day120 b 6 interleaved 0.03 2 70 7.585e-03 7.014e-02
+QTT N64_day120 b 6 interleaved 0.01 2 82 4.170e-03 3.523e-02
+QTT N64_day120 b 6 interleaved 0.003 3 140 9.023e-04 9.054e-03
+QTT N64_day120 b 6 interleaved 0.001 4 218 1.697e-04 9.878e-04
+QTT N64_day120 b 6 interleaved 0.0003 5 252 1.073e-06 8.483e-06
+QTT N64_day120 b 6 interleaved 0.0001 5 252 1.073e-06 8.483e-06
+QTT N64_day120 b 6 interleaved 3.0e-5 5 252 1.073e-06 8.483e-06
+QTT N64_day120 b 6 interleaved 1.0e-5 5 252 1.073e-06 8.483e-06
+RANK N64_day120 b 6 sequential 0.01 2 2,2,2,2,1,1,1,1,1,1,1
+RANK N64_day120 b 6 sequential 0.001 3 2,3,3,3,2,1,1,1,1,1,1
+RANK N64_day120 b 6 sequential 0.0001 5 2,4,5,4,2,1,1,1,1,1,1
+RANK N64_day120 b 6 sequential 1.0e-6 6 2,4,6,4,2,1,1,1,1,1,1
+QTT N64_day120 b 6 sequential 0.1 2 40 1.476e-02 1.113e-01
+QTT N64_day120 b 6 sequential 0.03 2 46 7.585e-03 7.014e-02
+QTT N64_day120 b 6 sequential 0.01 2 52 4.170e-03 3.523e-02
+QTT N64_day120 b 6 sequential 0.003 3 80 9.023e-04 9.054e-03
+QTT N64_day120 b 6 sequential 0.001 4 116 1.697e-04 9.878e-04
+QTT N64_day120 b 6 sequential 0.0003 5 132 1.073e-06 8.483e-06
+QTT N64_day120 b 6 sequential 0.0001 5 132 1.073e-06 8.483e-06
+QTT N64_day120 b 6 sequential 3.0e-5 5 132 1.073e-06 8.483e-06
+QTT N64_day120 b 6 sequential 1.0e-5 5 132 1.073e-06 8.483e-06
+AMR N64_day120 b 6 0.1 46 0 32 2.046e-02 8.765e-02
+AMR N64_day120 b 6 0.03 136 0 16 5.765e-03 2.842e-02
+AMR N64_day120 b 6 0.01 640 384 8 1.927e-03 9.800e-03
+AMR N64_day120 b 6 0.003 1168 768 4 5.545e-04 2.721e-03
+AMR N64_day120 b 6 0.001 2080 1408 2 1.785e-04 9.430e-04
+AMR N64_day120 b 6 0.0003 4096 4096 1 0.000e+00 0.000e+00
+AMR N64_day120 b 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day120 b 6 0.01 2816 3088
+TAG N64_day120 b 6 0.05 576 694
+RANK N64_day120 logb 6 interleaved 0.01 2 2,2,2,2,1,1,1,1,1,1,1
+RANK N64_day120 logb 6 interleaved 0.001 2 2,2,2,2,2,2,2,2,2,2,1
+RANK N64_day120 logb 6 interleaved 0.0001 4 2,2,3,3,4,4,3,3,2,2,1
+RANK N64_day120 logb 6 interleaved 1.0e-6 5 2,2,4,4,5,5,4,4,2,2,1
+QTT N64_day120 logb 6 interleaved 0.1 1 24 1.666e-02 6.071e-01
+QTT N64_day120 logb 6 interleaved 0.03 2 46 6.039e-03 2.656e-01
+QTT N64_day120 logb 6 interleaved 0.01 2 58 2.687e-03 1.291e-01
+QTT N64_day120 logb 6 interleaved 0.003 2 82 8.208e-04 3.339e-02
+QTT N64_day120 logb 6 interleaved 0.001 3 140 1.447e-04 7.974e-03
+QTT N64_day120 logb 6 interleaved 0.0003 4 166 1.072e-04 4.730e-03
+QTT N64_day120 logb 6 interleaved 0.0001 5 252 2.771e-07 1.234e-05
+QTT N64_day120 logb 6 interleaved 3.0e-5 5 252 2.771e-07 1.234e-05
+QTT N64_day120 logb 6 interleaved 1.0e-5 5 252 2.771e-07 1.234e-05
+RANK N64_day120 logb 6 sequential 0.01 2 2,2,1,1,1,1,1,1,1,1,1
+RANK N64_day120 logb 6 sequential 0.001 2 2,2,2,2,2,1,1,1,1,1,1
+RANK N64_day120 logb 6 sequential 0.0001 4 2,3,4,3,2,1,1,1,1,1,1
+RANK N64_day120 logb 6 sequential 1.0e-6 5 2,4,5,4,2,1,1,1,1,1,1
+QTT N64_day120 logb 6 sequential 0.1 1 24 1.666e-02 6.071e-01
+QTT N64_day120 logb 6 sequential 0.03 2 34 6.039e-03 2.656e-01
+QTT N64_day120 logb 6 sequential 0.01 2 40 2.687e-03 1.291e-01
+QTT N64_day120 logb 6 sequential 0.003 2 52 8.208e-04 3.339e-02
+QTT N64_day120 logb 6 sequential 0.001 3 80 1.447e-04 7.974e-03
+QTT N64_day120 logb 6 sequential 0.0003 4 92 1.072e-04 4.730e-03
+QTT N64_day120 logb 6 sequential 0.0001 5 132 2.771e-07 1.234e-05
+QTT N64_day120 logb 6 sequential 3.0e-5 5 132 2.771e-07 1.234e-05
+QTT N64_day120 logb 6 sequential 1.0e-5 5 132 2.771e-07 1.234e-05
+AMR N64_day120 logb 6 0.1 94 0 32 3.281e-03 7.802e-02
+AMR N64_day120 logb 6 0.03 232 128 16 9.430e-04 2.893e-02
+AMR N64_day120 logb 6 0.01 544 256 8 3.330e-04 9.637e-03
+AMR N64_day120 logb 6 0.003 1120 768 4 9.914e-05 2.902e-03
+AMR N64_day120 logb 6 0.001 1984 1280 2 3.100e-05 9.475e-04
+AMR N64_day120 logb 6 0.0003 4096 4096 1 0.000e+00 0.000e+00
+AMR N64_day120 logb 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day120 logb 6 0.01 2560 2752
+TAG N64_day120 logb 6 0.05 512 694
+RANK N64_day120 qmag 6 interleaved 0.01 2 2,2,2,2,2,2,2,2,1,1,1
+RANK N64_day120 qmag 6 interleaved 0.001 4 2,2,4,4,4,4,4,4,2,2,1
+RANK N64_day120 qmag 6 interleaved 0.0001 4 2,2,4,4,4,4,4,4,2,2,1
+RANK N64_day120 qmag 6 interleaved 1.0e-6 5 2,2,4,4,5,5,4,4,2,2,1
+QTT N64_day120 qmag 6 interleaved 0.1 2 58 1.570e-02 2.232e-02
+QTT N64_day120 qmag 6 interleaved 0.03 2 70 7.579e-03 1.201e-02
+QTT N64_day120 qmag 6 interleaved 0.01 2 82 3.053e-03 7.023e-03
+QTT N64_day120 qmag 6 interleaved 0.003 4 218 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 interleaved 0.001 4 218 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 interleaved 0.0003 4 218 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 interleaved 0.0001 4 218 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 interleaved 3.0e-5 4 218 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 interleaved 1.0e-5 4 218 2.010e-06 3.628e-06
+RANK N64_day120 qmag 6 sequential 0.01 2 2,2,2,2,1,1,1,1,1,1,1
+RANK N64_day120 qmag 6 sequential 0.001 4 2,4,4,4,2,1,1,1,1,1,1
+RANK N64_day120 qmag 6 sequential 0.0001 4 2,4,4,4,2,1,1,1,1,1,1
+RANK N64_day120 qmag 6 sequential 1.0e-6 5 2,4,5,4,2,1,1,1,1,1,1
+QTT N64_day120 qmag 6 sequential 0.1 2 40 1.570e-02 2.232e-02
+QTT N64_day120 qmag 6 sequential 0.03 2 46 7.579e-03 1.201e-02
+QTT N64_day120 qmag 6 sequential 0.01 2 52 3.053e-03 7.023e-03
+QTT N64_day120 qmag 6 sequential 0.003 4 116 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 sequential 0.001 4 116 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 sequential 0.0003 4 116 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 sequential 0.0001 4 116 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 sequential 3.0e-5 4 116 2.010e-06 3.628e-06
+QTT N64_day120 qmag 6 sequential 1.0e-5 4 116 2.010e-06 3.628e-06
+AMR N64_day120 qmag 6 0.1 1 0 64 2.247e-02 2.344e-02
+AMR N64_day120 qmag 6 0.03 1 0 64 2.247e-02 2.344e-02
+AMR N64_day120 qmag 6 0.01 184 0 16 1.993e-03 6.479e-03
+AMR N64_day120 qmag 6 0.003 376 256 16 8.158e-05 2.553e-04
+AMR N64_day120 qmag 6 0.001 376 256 16 8.158e-05 2.553e-04
+AMR N64_day120 qmag 6 0.0003 376 256 16 8.158e-05 2.553e-04
+AMR N64_day120 qmag 6 0.0001 472 384 16 5.707e-05 7.027e-05
+TAG N64_day120 qmag 6 0.01 3968 4096
+TAG N64_day120 qmag 6 0.05 0 1
+RANK N64_day120 K 6 interleaved 0.01 2 2,2,2,2,2,2,2,2,2,2,1
+RANK N64_day120 K 6 interleaved 0.001 4 2,2,4,4,4,4,3,3,2,2,1
+RANK N64_day120 K 6 interleaved 0.0001 5 2,2,4,4,5,5,4,4,2,2,1
+RANK N64_day120 K 6 interleaved 1.0e-6 6 2,2,4,4,6,6,4,4,2,2,1
+QTT N64_day120 K 6 interleaved 0.1 2 70 1.633e-02 5.526e-02
+QTT N64_day120 K 6 interleaved 0.03 2 82 8.769e-03 4.266e-02
+QTT N64_day120 K 6 interleaved 0.01 3 140 2.100e-03 1.081e-02
+QTT N64_day120 K 6 interleaved 0.003 4 192 6.633e-04 3.464e-03
+QTT N64_day120 K 6 interleaved 0.001 4 218 1.037e-04 3.204e-04
+QTT N64_day120 K 6 interleaved 0.0003 5 252 1.489e-06 5.191e-06
+QTT N64_day120 K 6 interleaved 0.0001 5 252 1.489e-06 5.191e-06
+QTT N64_day120 K 6 interleaved 3.0e-5 5 252 1.489e-06 5.191e-06
+QTT N64_day120 K 6 interleaved 1.0e-5 5 252 1.489e-06 5.191e-06
+RANK N64_day120 K 6 sequential 0.01 2 2,2,2,2,2,1,1,1,1,1,1
+RANK N64_day120 K 6 sequential 0.001 4 2,4,4,3,2,1,1,1,1,1,1
+RANK N64_day120 K 6 sequential 0.0001 5 2,4,5,4,2,1,1,1,1,1,1
+RANK N64_day120 K 6 sequential 1.0e-6 6 2,4,6,4,2,1,1,1,1,1,1
+QTT N64_day120 K 6 sequential 0.1 2 46 1.633e-02 5.526e-02
+QTT N64_day120 K 6 sequential 0.03 2 52 8.769e-03 4.266e-02
+QTT N64_day120 K 6 sequential 0.01 3 80 2.100e-03 1.081e-02
+QTT N64_day120 K 6 sequential 0.003 4 104 6.633e-04 3.464e-03
+QTT N64_day120 K 6 sequential 0.001 4 116 1.037e-04 3.204e-04
+QTT N64_day120 K 6 sequential 0.0003 5 132 1.489e-06 5.191e-06
+QTT N64_day120 K 6 sequential 0.0001 5 132 1.489e-06 5.191e-06
+QTT N64_day120 K 6 sequential 3.0e-5 5 132 1.489e-06 5.191e-06
+QTT N64_day120 K 6 sequential 1.0e-5 5 132 1.489e-06 5.191e-06
+AMR N64_day120 K 6 0.1 10 0 32 5.013e-02 8.664e-02
+AMR N64_day120 K 6 0.03 160 0 8 1.120e-02 2.845e-02
+AMR N64_day120 K 6 0.01 592 384 8 3.702e-03 7.485e-03
+AMR N64_day120 K 6 0.003 976 384 4 1.294e-03 2.780e-03
+AMR N64_day120 K 6 0.001 2368 1792 2 3.877e-04 9.584e-04
+AMR N64_day120 K 6 0.0003 3712 3584 2 8.483e-05 2.859e-04
+AMR N64_day120 K 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day120 K 6 0.01 3200 3520
+TAG N64_day120 K 6 0.05 576 694
+RANK N64_day170 h 6 interleaved 0.01 2 2,2,2,2,2,2,2,2,2,2,1
+RANK N64_day170 h 6 interleaved 0.001 4 2,2,4,4,4,4,4,4,3,2,1
+RANK N64_day170 h 6 interleaved 0.0001 6 2,3,5,6,6,6,5,5,4,3,2
+RANK N64_day170 h 6 interleaved 1.0e-6 7 2,3,5,6,7,7,6,6,4,3,2
+QTT N64_day170 h 6 interleaved 0.1 2 58 2.813e-02 8.235e-02
+QTT N64_day170 h 6 interleaved 0.03 2 82 3.467e-03 4.930e-02
+QTT N64_day170 h 6 interleaved 0.01 2 82 3.467e-03 4.930e-02
+QTT N64_day170 h 6 interleaved 0.003 4 204 1.470e-03 4.343e-02
+QTT N64_day170 h 6 interleaved 0.001 6 402 2.130e-04 2.145e-03
+QTT N64_day170 h 6 interleaved 0.0003 6 440 1.672e-05 4.765e-05
+QTT N64_day170 h 6 interleaved 0.0001 6 440 1.672e-05 4.765e-05
+QTT N64_day170 h 6 interleaved 3.0e-5 6 482 6.071e-06 1.564e-05
+QTT N64_day170 h 6 interleaved 1.0e-5 7 532 1.101e-07 7.453e-07
+RANK N64_day170 h 6 sequential 0.01 2 2,2,2,2,2,1,1,1,1,1,1
+RANK N64_day170 h 6 sequential 0.001 3 2,3,3,3,3,2,2,2,2,2,1
+RANK N64_day170 h 6 sequential 0.0001 4 2,4,4,4,3,2,3,3,3,3,2
+RANK N64_day170 h 6 sequential 1.0e-6 5 2,4,5,5,3,2,3,3,3,3,2
+QTT N64_day170 h 6 sequential 0.1 2 40 2.813e-02 8.236e-02
+QTT N64_day170 h 6 sequential 0.03 2 52 3.467e-03 4.943e-02
+QTT N64_day170 h 6 sequential 0.01 2 52 3.467e-03 4.943e-02
+QTT N64_day170 h 6 sequential 0.003 3 132 1.347e-03 3.686e-02
+QTT N64_day170 h 6 sequential 0.001 4 176 2.639e-04 3.744e-03
+QTT N64_day170 h 6 sequential 0.0003 4 202 1.240e-05 1.258e-04
+QTT N64_day170 h 6 sequential 0.0001 4 202 1.240e-05 1.258e-04
+QTT N64_day170 h 6 sequential 3.0e-5 5 218 8.169e-06 2.140e-05
+QTT N64_day170 h 6 sequential 1.0e-5 5 234 1.870e-07 2.100e-06
+AMR N64_day170 h 6 0.1 10 0 32 4.128e-02 7.256e-02
+AMR N64_day170 h 6 0.03 40 0 16 1.444e-02 2.857e-02
+AMR N64_day170 h 6 0.01 244 128 16 5.957e-03 9.638e-03
+AMR N64_day170 h 6 0.003 424 128 8 1.989e-03 2.987e-03
+AMR N64_day170 h 6 0.001 1168 768 4 6.200e-04 8.814e-04
+AMR N64_day170 h 6 0.0003 2176 1536 2 1.878e-04 2.955e-04
+AMR N64_day170 h 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day170 h 6 0.01 2176 2236
+TAG N64_day170 h 6 0.05 256 430
+RANK N64_day170 N 6 interleaved 0.01 2 2,2,2,2,2,2,2,2,1,1,1
+RANK N64_day170 N 6 interleaved 0.001 3 2,2,3,3,3,3,3,3,2,2,1
+RANK N64_day170 N 6 interleaved 0.0001 5 2,2,4,4,5,5,4,4,2,2,1
+RANK N64_day170 N 6 interleaved 1.0e-6 6 2,2,4,4,6,6,4,4,2,2,1
+QTT N64_day170 N 6 interleaved 0.1 2 58 1.697e-02 5.315e-02
+QTT N64_day170 N 6 interleaved 0.03 2 70 8.794e-03 3.129e-02
+QTT N64_day170 N 6 interleaved 0.01 3 120 2.871e-03 8.800e-03
+QTT N64_day170 N 6 interleaved 0.003 3 140 7.524e-04 3.440e-03
+QTT N64_day170 N 6 interleaved 0.001 5 224 2.709e-04 1.636e-03
+QTT N64_day170 N 6 interleaved 0.0003 5 252 2.450e-06 7.077e-06
+QTT N64_day170 N 6 interleaved 0.0001 5 252 2.450e-06 7.077e-06
+QTT N64_day170 N 6 interleaved 3.0e-5 5 252 2.450e-06 7.077e-06
+QTT N64_day170 N 6 interleaved 1.0e-5 5 252 2.450e-06 7.077e-06
+RANK N64_day170 N 6 sequential 0.01 2 2,2,2,2,1,1,1,1,1,1,1
+RANK N64_day170 N 6 sequential 0.001 3 2,3,3,3,2,1,1,1,1,1,1
+RANK N64_day170 N 6 sequential 0.0001 5 2,4,5,4,2,1,1,1,1,1,1
+RANK N64_day170 N 6 sequential 1.0e-6 6 2,4,6,4,2,1,1,1,1,1,1
+QTT N64_day170 N 6 sequential 0.1 2 40 1.697e-02 5.315e-02
+QTT N64_day170 N 6 sequential 0.03 2 46 8.794e-03 3.129e-02
+QTT N64_day170 N 6 sequential 0.01 3 70 2.871e-03 8.800e-03
+QTT N64_day170 N 6 sequential 0.003 3 80 7.524e-04 3.440e-03
+QTT N64_day170 N 6 sequential 0.001 5 118 2.709e-04 1.636e-03
+QTT N64_day170 N 6 sequential 0.0003 5 132 2.450e-06 7.080e-06
+QTT N64_day170 N 6 sequential 0.0001 5 132 2.450e-06 7.080e-06
+QTT N64_day170 N 6 sequential 3.0e-5 5 132 2.450e-06 7.080e-06
+QTT N64_day170 N 6 sequential 1.0e-5 5 132 2.450e-06 7.080e-06
+AMR N64_day170 N 6 0.1 10 0 32 3.823e-02 8.074e-02
+AMR N64_day170 N 6 0.03 112 0 16 9.833e-03 2.944e-02
+AMR N64_day170 N 6 0.01 328 128 8 2.943e-03 7.130e-03
+AMR N64_day170 N 6 0.003 832 384 4 1.038e-03 2.626e-03
+AMR N64_day170 N 6 0.001 1648 1152 4 4.544e-04 9.866e-04
+AMR N64_day170 N 6 0.0003 2848 2432 2 1.384e-04 2.859e-04
+AMR N64_day170 N 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day170 N 6 0.01 1792 1954
+TAG N64_day170 N 6 0.05 448 526
+RANK N64_day170 b 6 interleaved 0.01 3 2,2,2,2,3,3,2,2,1,1,1
+RANK N64_day170 b 6 interleaved 0.001 4 2,2,4,4,4,4,3,3,2,2,1
+RANK N64_day170 b 6 interleaved 0.0001 4 2,2,4,4,4,4,4,4,2,2,1
+RANK N64_day170 b 6 interleaved 1.0e-6 9 2,3,5,6,8,9,7,6,4,3,2
+QTT N64_day170 b 6 interleaved 0.1 2 46 2.634e-02 2.452e-01
+QTT N64_day170 b 6 interleaved 0.03 3 108 8.978e-03 1.009e-01
+QTT N64_day170 b 6 interleaved 0.01 3 140 1.537e-03 2.020e-02
+QTT N64_day170 b 6 interleaved 0.003 4 192 7.651e-04 9.782e-03
+QTT N64_day170 b 6 interleaved 0.001 4 218 4.821e-05 2.829e-04
+QTT N64_day170 b 6 interleaved 0.0003 4 218 4.821e-05 2.829e-04
+QTT N64_day170 b 6 interleaved 0.0001 5 252 8.478e-06 2.570e-04
+QTT N64_day170 b 6 interleaved 3.0e-5 5 252 8.478e-06 2.570e-04
+QTT N64_day170 b 6 interleaved 1.0e-5 8 550 3.224e-06 1.105e-04
+RANK N64_day170 b 6 sequential 0.01 3 2,2,3,2,1,1,1,1,1,1,1
+RANK N64_day170 b 6 sequential 0.001 4 2,4,4,3,2,1,1,1,1,1,1
+RANK N64_day170 b 6 sequential 0.0001 4 2,4,4,4,2,1,1,1,1,1,1
+RANK N64_day170 b 6 sequential 1.0e-6 6 2,4,6,5,3,2,3,4,4,3,2
+QTT N64_day170 b 6 sequential 0.1 2 34 2.634e-02 2.452e-01
+QTT N64_day170 b 6 sequential 0.03 3 64 8.978e-03 1.008e-01
+QTT N64_day170 b 6 sequential 0.01 3 80 1.537e-03 2.020e-02
+QTT N64_day170 b 6 sequential 0.003 4 104 7.651e-04 9.782e-03
+QTT N64_day170 b 6 sequential 0.001 4 116 4.821e-05 2.830e-04
+QTT N64_day170 b 6 sequential 0.0003 4 116 4.821e-05 2.830e-04
+QTT N64_day170 b 6 sequential 0.0001 5 132 8.489e-06 2.637e-04
+QTT N64_day170 b 6 sequential 3.0e-5 5 132 8.489e-06 2.637e-04
+QTT N64_day170 b 6 sequential 1.0e-5 6 224 4.168e-06 1.119e-04
+AMR N64_day170 b 6 0.1 286 256 32 2.055e-02 9.641e-02
+AMR N64_day170 b 6 0.03 400 256 8 3.924e-03 2.258e-02
+AMR N64_day170 b 6 0.01 736 512 8 1.517e-03 9.410e-03
+AMR N64_day170 b 6 0.003 1120 512 4 4.879e-04 2.752e-03
+AMR N64_day170 b 6 0.001 2224 1664 4 1.918e-04 9.473e-04
+AMR N64_day170 b 6 0.0003 3712 3584 2 2.432e-05 2.875e-04
+AMR N64_day170 b 6 0.0001 4000 3968 2 2.934e-06 5.523e-05
+TAG N64_day170 b 6 0.01 3328 3520
+TAG N64_day170 b 6 0.05 320 430
+RANK N64_day170 logb 6 interleaved 0.01 2 2,2,2,2,1,1,1,1,1,1,1
+RANK N64_day170 logb 6 interleaved 0.001 3 2,2,3,3,3,3,3,3,2,2,1
+RANK N64_day170 logb 6 interleaved 0.0001 4 2,2,4,4,4,4,4,4,2,2,1
+RANK N64_day170 logb 6 interleaved 1.0e-6 7 2,3,5,5,6,7,6,5,3,3,2
+QTT N64_day170 logb 6 interleaved 0.1 1 24 2.243e-02 6.030e-01
+QTT N64_day170 logb 6 interleaved 0.03 2 46 6.282e-03 2.499e-01
+QTT N64_day170 logb 6 interleaved 0.01 2 58 4.127e-03 1.715e-01
+QTT N64_day170 logb 6 interleaved 0.003 3 140 4.029e-04 2.039e-02
+QTT N64_day170 logb 6 interleaved 0.001 3 140 4.029e-04 2.039e-02
+QTT N64_day170 logb 6 interleaved 0.0003 4 218 2.585e-05 5.855e-04
+QTT N64_day170 logb 6 interleaved 0.0001 4 218 2.585e-05 5.855e-04
+QTT N64_day170 logb 6 interleaved 3.0e-5 5 252 1.904e-06 2.402e-04
+QTT N64_day170 logb 6 interleaved 1.0e-5 5 252 1.904e-06 2.402e-04
+RANK N64_day170 logb 6 sequential 0.01 2 2,2,1,1,1,1,1,1,1,1,1
+RANK N64_day170 logb 6 sequential 0.001 3 2,3,3,3,2,1,1,1,1,1,1
+RANK N64_day170 logb 6 sequential 0.0001 4 2,4,4,4,2,1,1,1,1,1,1
+RANK N64_day170 logb 6 sequential 1.0e-6 5 2,4,5,4,3,2,3,3,3,2,2
+QTT N64_day170 logb 6 sequential 0.1 1 24 2.243e-02 6.030e-01
+QTT N64_day170 logb 6 sequential 0.03 2 34 6.282e-03 2.499e-01
+QTT N64_day170 logb 6 sequential 0.01 2 40 4.127e-03 1.715e-01
+QTT N64_day170 logb 6 sequential 0.003 3 80 4.029e-04 2.039e-02
+QTT N64_day170 logb 6 sequential 0.001 3 80 4.029e-04 2.039e-02
+QTT N64_day170 logb 6 sequential 0.0003 4 116 2.585e-05 5.857e-04
+QTT N64_day170 logb 6 sequential 0.0001 4 116 2.585e-05 5.857e-04
+QTT N64_day170 logb 6 sequential 3.0e-5 5 132 1.907e-06 2.463e-04
+QTT N64_day170 logb 6 sequential 1.0e-5 5 132 1.907e-06 2.463e-04
+AMR N64_day170 logb 6 0.1 292 256 16 2.730e-03 5.771e-02
+AMR N64_day170 logb 6 0.03 400 256 8 9.445e-04 2.188e-02
+AMR N64_day170 logb 6 0.01 784 512 4 2.418e-04 6.225e-03
+AMR N64_day170 logb 6 0.003 976 512 4 1.713e-04 2.988e-03
+AMR N64_day170 logb 6 0.001 1984 1280 2 5.731e-05 9.396e-04
+AMR N64_day170 logb 6 0.0003 4096 4096 1 0.000e+00 0.000e+00
+AMR N64_day170 logb 6 0.0001 4096 4096 1 0.000e+00 0.000e+00
+TAG N64_day170 logb 6 0.01 3200 3520
+TAG N64_day170 logb 6 0.05 448 712
+RANK N64_day170 qmag 6 interleaved 0.01 2 2,2,2,2,2,2,2,2,1,1,1
+RANK N64_day170 qmag 6 interleaved 0.001 4 2,2,4,4,4,4,4,4,2,2,1
+RANK N64_day170 qmag 6 interleaved 0.0001 4 2,2,4,4,4,4,4,4,2,2,1
+RANK N64_day170 qmag 6 interleaved 1.0e-6 10 2,3,5,7,8,9,10,8,6,4,2
+QTT N64_day170 qmag 6 interleaved 0.1 2 58 1.569e-02 2.227e-02
+QTT N64_day170 qmag 6 interleaved 0.03 2 70 7.579e-03 1.236e-02
+QTT N64_day170 qmag 6 interleaved 0.01 2 82 3.082e-03 6.959e-03
+QTT N64_day170 qmag 6 interleaved 0.003 4 218 2.233e-05 1.613e-04
+QTT N64_day170 qmag 6 interleaved 0.001 4 218 2.233e-05 1.613e-04
+QTT N64_day170 qmag 6 interleaved 0.0003 4 218 2.233e-05 1.613e-04
+QTT N64_day170 qmag 6 interleaved 0.0001 4 218 2.233e-05 1.613e-04
+QTT N64_day170 qmag 6 interleaved 3.0e-5 6 402 1.279e-05 8.217e-05
+QTT N64_day170 qmag 6 interleaved 1.0e-5 7 532 4.730e-06 3.012e-05
+RANK N64_day170 qmag 6 sequential 0.01 2 2,2,2,2,1,1,1,1,1,1,1
+RANK N64_day170 qmag 6 sequential 0.001 4 2,4,4,4,2,1,1,1,1,1,1
+RANK N64_day170 qmag 6 sequential 0.0001 4 2,4,4,4,2,1,1,1,1,1,1
+RANK N64_day170 qmag 6 sequential 1.0e-6 5 2,4,5,5,4,2,3,5,5,4,2
+QTT N64_day170 qmag 6 sequential 0.1 2 40 1.569e-02 2.226e-02
+QTT N64_day170 qmag 6 sequential 0.03 2 46 7.579e-03 1.236e-02
+QTT N64_day170 qmag 6 sequential 0.01 2 52 3.082e-03 6.958e-03
+QTT N64_day170 qmag 6 sequential 0.003 4 116 2.236e-05 1.649e-04
+QTT N64_day170 qmag 6 sequential 0.001 4 116 2.236e-05 1.649e-04
+QTT N64_day170 qmag 6 sequential 0.0003 4 116 2.236e-05 1.649e-04
+QTT N64_day170 qmag 6 sequential 0.0001 4 116 2.236e-05 1.649e-04
+QTT N64_day170 qmag 6 sequential 3.0e-5 4 192 1.281e-05 7.229e-05
+QTT N64_day170 qmag 6 sequential 1.0e-5 5 260 3.346e-06 2.509e-05
+AMR N64_day170 qmag 6 0.1 1 0 64 2.255e-02 2.357e-02
+AMR N64_day170 qmag 6 0.03 1 0 64 2.255e-02 2.357e-02
+AMR N64_day170 qmag 6 0.01 184 0 16 1.970e-03 6.473e-03
+AMR N64_day170 qmag 6 0.003 376 256 16 1.314e-04 1.773e-04
+AMR N64_day170 qmag 6 0.001 376 256 16 1.314e-04 1.773e-04
+AMR N64_day170 qmag 6 0.0003 376 256 16 1.314e-04 1.773e-04
+AMR N64_day170 qmag 6 0.0001 433 276 16 5.714e-05 9.981e-05
+TAG N64_day170 qmag 6 0.01 3968 4096
+TAG N64_day170 qmag 6 0.05 0 1
+RANK N64_day170 K 6 interleaved 0.01 3 2,2,3,3,3,3,3,3,2,2,1
+RANK N64_day170 K 6 interleaved 0.001 4 2,2,4,4,4,4,4,4,2,2,1
+RANK N64_day170 K 6 interleaved 0.0001 5 2,2,4,4,5,5,4,4,2,2,1
+RANK N64_day170 K 6 interleaved 1.0e-6 10 2,3,5,6,9,10,8,7,5,3,2
+QTT N64_day170 K 6 interleaved 0.1 2 58 3.739e-02 1.285e-01
+QTT N64_day170 K 6 interleaved 0.03 3 140 3.638e-03 2.091e-02
+QTT N64_day170 K 6 interleaved 0.01 3 140 3.638e-03 2.091e-02
+QTT N64_day170 K 6 interleaved 0.003 4 218 2.025e-04 7.417e-04
+QTT N64_day170 K 6 interleaved 0.001 4 218 2.025e-04 7.417e-04
+QTT N64_day170 K 6 interleaved 0.0003 5 252 1.006e-05 1.516e-04
+QTT N64_day170 K 6 interleaved 0.0001 5 252 1.006e-05 1.516e-04
+QTT N64_day170 K 6 interleaved 3.0e-5 5 252 1.006e-05 1.516e-04
+QTT N64_day170 K 6 interleaved 1.0e-5 8 586 2.272e-06 2.782e-05
+RANK N64_day170 K 6 sequential 0.01 3 2,3,3,3,2,1,1,1,1,1,1
+RANK N64_day170 K 6 sequential 0.001 4 2,4,4,4,2,1,1,1,1,1,1
+RANK N64_day170 K 6 sequential 0.0001 5 2,4,5,4,2,1,1,1,1,1,1
+RANK N64_day170 K 6 sequential 1.0e-6 7 2,4,7,5,3,2,3,4,4,3,2
+QTT N64_day170 K 6 sequential 0.1 2 40 3.739e-02 1.285e-01
+QTT N64_day170 K 6 sequential 0.03 3 80 3.638e-03 2.091e-02
+QTT N64_day170 K 6 sequential 0.01 3 80 3.638e-03 2.091e-02
+QTT N64_day170 K 6 sequential 0.003 4 116 2.025e-04 7.419e-04
+QTT N64_day170 K 6 sequential 0.001 4 116 2.025e-04 7.419e-04
+QTT N64_day170 K 6 sequential 0.0003 5 132 1.008e-05 1.560e-04
+QTT N64_day170 K 6 sequential 0.0001 5 132 1.008e-05 1.560e-04
+QTT N64_day170 K 6 sequential 3.0e-5 5 132 1.008e-05 1.560e-04
+QTT N64_day170 K 6 sequential 1.0e-5 6 246 2.702e-06 3.755e-05
+AMR N64_day170 K 6 0.1 196 128 16 3.475e-02 8.914e-02
+AMR N64_day170 K 6 0.03 400 256 8 8.668e-03 1.986e-02
+AMR N64_day170 K 6 0.01 760 512 8 2.443e-03 4.997e-03
+AMR N64_day170 K 6 0.003 1168 512 4 9.948e-04 2.748e-03
+AMR N64_day170 K 6 0.001 2560 2176 4 3.957e-04 9.960e-04
+AMR N64_day170 K 6 0.0003 3808 3712 2 3.860e-05 2.319e-04
+AMR N64_day170 K 6 0.0001 4000 3968 2 7.866e-06 6.898e-05
+TAG N64_day170 K 6 0.01 3520 3760
+TAG N64_day170 K 6 0.05 448 526
+RANK N64_day185 h 6 interleaved 0.01 10 2,3,5,9,10,9,8,5,5,3,2
+RANK N64_day185 h 6 interleaved 0.001 19 2,4,7,13,17,19,17,10,8,4,2
+RANK N64_day185 h 6 interleaved 0.0001 27 2,4,8,15,23,27,25,15,8,4,2
+RANK N64_day185 h 6 interleaved 1.0e-6 42 2,4,8,16,32,42,32,16,8,4,2
+QTT N64_day185 h 6 interleaved 0.1 4 138 6.027e-02 2.201e-01
+QTT N64_day185 h 6 interleaved 0.03 10 720 2.102e-02 7.895e-02
+QTT N64_day185 h 6 interleaved 0.01 15 1666 5.781e-03 3.867e-02
+QTT N64_day185 h 6 interleaved 0.003 19 2674 1.344e-03 8.165e-03
+QTT N64_day185 h 6 interleaved 0.001 23 3464 5.649e-04 2.951e-03
+QTT N64_day185 h 6 interleaved 0.0003 28 4776 1.632e-04 1.042e-03
+QTT N64_day185 h 6 interleaved 0.0001 31 5944 4.086e-05 1.766e-04
+QTT N64_day185 h 6 interleaved 3.0e-5 35 6800 1.071e-05 4.437e-05
+QTT N64_day185 h 6 interleaved 1.0e-5 38 7376 3.891e-06 2.419e-05
+RANK N64_day185 h 6 sequential 0.01 7 2,4,4,5,4,4,6,7,6,4,2
+RANK N64_day185 h 6 sequential 0.001 15 2,4,7,9,10,10,15,14,8,4,2
+RANK N64_day185 h 6 sequential 0.0001 25 2,4,8,12,16,17,25,16,8,4,2
+RANK N64_day185 h 6 sequential 1.0e-6 33 2,4,8,16,24,33,32,16,8,4,2
+QTT N64_day185 h 6 sequential 0.1 3 112 5.119e-02 1.997e-01
+QTT N64_day185 h 6 sequential 0.03 6 354 1.901e-02 7.629e-02
+QTT N64_day185 h 6 sequential 0.01 9 748 5.488e-03 6.623e-02
+QTT N64_day185 h 6 sequential 0.003 14 1514 1.608e-03 8.078e-03
+QTT N64_day185 h 6 sequential 0.001 19 2232 5.476e-04 2.720e-03
+QTT N64_day185 h 6 sequential 0.0003 25 3112 1.490e-04 9.339e-04
+QTT N64_day185 h 6 sequential 0.0001 29 3908 4.753e-05 2.115e-04
+QTT N64_day185 h 6 sequential 3.0e-5 32 4832 1.131e-05 4.849e-05
+QTT N64_day185 h 6 sequential 1.0e-5 32 5372 3.782e-06 2.889e-05
+AMR N64_day185 h 6 0.1 151 0 32 4.392e-02 9.690e-02
+AMR N64_day185 h 6 0.03 811 588 16 1.615e-02 2.998e-02
+AMR N64_day185 h 6 0.01 1435 1220 8 4.423e-03 9.890e-03
+AMR N64_day185 h 6 0.003 1957 1656 4 1.237e-03 2.993e-03
+AMR N64_day185 h 6 0.001 2623 2232 4 4.154e-04 9.951e-04
+AMR N64_day185 h 6 0.0003 3604 3440 2 9.541e-05 2.989e-04
+AMR N64_day185 h 6 0.0001 4000 3968 2 1.177e-05 9.837e-05
+TAG N64_day185 h 6 0.01 2839 2971
+TAG N64_day185 h 6 0.05 730 1096
+RANK N64_day185 N 6 interleaved 0.01 9 2,3,5,9,9,9,8,5,4,2,2
+RANK N64_day185 N 6 interleaved 0.001 19 2,4,7,13,17,19,18,10,7,4,2
+RANK N64_day185 N 6 interleaved 0.0001 29 2,4,8,15,23,29,27,16,8,4,2
+RANK N64_day185 N 6 interleaved 1.0e-6 42 2,4,8,16,32,42,32,16,8,4,2
+QTT N64_day185 N 6 interleaved 0.1 4 124 5.093e-02 2.989e-01
+QTT N64_day185 N 6 interleaved 0.03 9 662 2.100e-02 1.094e-01
+QTT N64_day185 N 6 interleaved 0.01 14 1592 5.907e-03 4.074e-02
+QTT N64_day185 N 6 interleaved 0.003 19 2704 1.521e-03 1.362e-02
+QTT N64_day185 N 6 interleaved 0.001 24 3960 5.066e-04 5.249e-03
+QTT N64_day185 N 6 interleaved 0.0003 29 5118 1.565e-04 9.942e-04
+QTT N64_day185 N 6 interleaved 0.0001 33 6266 4.587e-05 4.256e-04
+QTT N64_day185 N 6 interleaved 3.0e-5 37 7040 1.074e-05 8.971e-05
+QTT N64_day185 N 6 interleaved 1.0e-5 40 7736 3.022e-06 2.737e-05
+RANK N64_day185 N 6 sequential 0.01 7 2,4,4,4,4,4,6,7,6,4,2
+RANK N64_day185 N 6 sequential 0.001 14 2,4,7,9,10,9,14,14,8,4,2
+RANK N64_day185 N 6 sequential 0.0001 24 2,4,8,12,16,16,24,16,8,4,2
+RANK N64_day185 N 6 sequential 1.0e-6 32 2,4,8,16,25,32,32,16,8,4,2
+QTT N64_day185 N 6 sequential 0.1 2 56 5.783e-02 2.244e-01
+QTT N64_day185 N 6 sequential 0.03 6 336 1.916e-02 1.219e-01
+QTT N64_day185 N 6 sequential 0.01 9 748 5.093e-03 3.440e-02
+QTT N64_day185 N 6 sequential 0.003 13 1380 1.695e-03 1.185e-02
+QTT N64_day185 N 6 sequential 0.001 18 2070 5.440e-04 5.811e-03
+QTT N64_day185 N 6 sequential 0.0003 24 3048 1.496e-04 9.865e-04
+QTT N64_day185 N 6 sequential 0.0001 29 3878 4.673e-05 2.779e-04
+QTT N64_day185 N 6 sequential 3.0e-5 32 4804 1.050e-05 6.610e-05
+QTT N64_day185 N 6 sequential 1.0e-5 32 5348 3.795e-06 4.240e-05
+AMR N64_day185 N 6 0.1 280 52 16 2.858e-02 9.902e-02
+AMR N64_day185 N 6 0.03 1090 876 16 9.179e-03 2.924e-02
+AMR N64_day185 N 6 0.01 1579 1344 8 2.843e-03 9.916e-03
+AMR N64_day185 N 6 0.003 2182 1852 4 9.047e-04 2.963e-03
+AMR N64_day185 N 6 0.001 2947 2592 4 2.721e-04 9.948e-04
+AMR N64_day185 N 6 0.0003 3808 3712 2 4.754e-05 2.997e-04
+AMR N64_day185 N 6 0.0001 4045 4028 2 5.384e-06 9.742e-05
+TAG N64_day185 N 6 0.01 2586 2722
+TAG N64_day185 N 6 0.05 982 1312
+RANK N64_day185 b 6 interleaved 0.01 21 2,4,7,12,19,21,18,10,7,4,2
+RANK N64_day185 b 6 interleaved 0.001 31 2,4,8,14,24,31,29,16,8,4,2
+RANK N64_day185 b 6 interleaved 0.0001 38 2,4,8,16,27,38,32,16,8,4,2
+RANK N64_day185 b 6 interleaved 1.0e-6 48 2,4,8,16,32,48,32,16,8,4,2
+QTT N64_day185 b 6 interleaved 0.1 14 1336 6.269e-02 7.171e-02
+QTT N64_day185 b 6 interleaved 0.03 21 2768 1.940e-02 4.118e-02
+QTT N64_day185 b 6 interleaved 0.01 26 4124 5.751e-03 5.871e-03
+QTT N64_day185 b 6 interleaved 0.003 31 5534 1.344e-03 1.528e-03
+QTT N64_day185 b 6 interleaved 0.001 35 6426 4.570e-04 7.338e-04
+QTT N64_day185 b 6 interleaved 0.0003 38 7052 1.007e-04 1.789e-04
+QTT N64_day185 b 6 interleaved 0.0001 40 7512 3.084e-05 3.876e-05
+QTT N64_day185 b 6 interleaved 3.0e-5 42 7988 9.536e-06 1.502e-05
+QTT N64_day185 b 6 interleaved 1.0e-5 45 8488 2.961e-06 3.431e-06
+RANK N64_day185 b 6 sequential 0.01 14 2,4,6,8,8,7,13,14,8,4,2
+RANK N64_day185 b 6 sequential 0.001 21 2,4,8,12,15,13,21,16,8,4,2
+RANK N64_day185 b 6 sequential 0.0001 29 2,4,8,14,20,22,29,16,8,4,2
+RANK N64_day185 b 6 sequential 1.0e-6 38 2,4,8,16,27,38,32,16,8,4,2
+QTT N64_day185 b 6 sequential 0.1 10 594 5.778e-02 4.805e-02
+QTT N64_day185 b 6 sequential 0.03 14 1216 1.499e-02 1.483e-02
+QTT N64_day185 b 6 sequential 0.01 17 1880 3.890e-03 3.649e-03
+QTT N64_day185 b 6 sequential 0.003 21 2584 1.301e-03 1.367e-03
+QTT N64_day185 b 6 sequential 0.001 26 3428 4.599e-04 3.720e-04
+QTT N64_day185 b 6 sequential 0.0003 29 4364 1.297e-04 1.172e-04
+QTT N64_day185 b 6 sequential 0.0001 32 5348 2.918e-05 3.094e-05
+QTT N64_day185 b 6 sequential 3.0e-5 32 6038 1.006e-05 9.433e-06
+QTT N64_day185 b 6 sequential 1.0e-5 35 6596 3.738e-06 4.662e-06
+AMR N64_day185 b 6 0.1 730 580 32 1.392e-01 9.960e-02
+AMR N64_day185 b 6 0.03 997 772 16 4.157e-02 2.972e-02
+AMR N64_day185 b 6 0.01 1324 1068 16 1.986e-02 9.935e-03
+AMR N64_day185 b 6 0.003 2053 1836 8 6.000e-03 2.975e-03
+AMR N64_day185 b 6 0.001 2518 2264 8 1.450e-03 9.969e-04
+AMR N64_day185 b 6 0.0003 2977 2784 4 4.438e-04 2.972e-04
+AMR N64_day185 b 6 0.0001 3376 3152 4 1.493e-04 9.960e-05
+TAG N64_day185 b 6 0.01 1609 2020
+TAG N64_day185 b 6 0.05 695 1078
+RANK N64_day185 logb 6 interleaved 0.01 15 2,4,6,10,15,14,11,6,4,2,2
+RANK N64_day185 logb 6 interleaved 0.001 25 2,4,7,13,21,25,23,13,8,4,2
+RANK N64_day185 logb 6 interleaved 0.0001 34 2,4,8,15,25,34,30,16,8,4,2
+RANK N64_day185 logb 6 interleaved 1.0e-6 45 2,4,8,16,32,45,32,16,8,4,2
+QTT N64_day185 logb 6 interleaved 0.1 7 504 5.364e-02 2.762e-01
+QTT N64_day185 logb 6 interleaved 0.03 15 1356 1.775e-02 1.079e-01
+QTT N64_day185 logb 6 interleaved 0.01 19 2332 6.298e-03 3.359e-02
+QTT N64_day185 logb 6 interleaved 0.003 26 3982 1.692e-03 1.172e-02
+QTT N64_day185 logb 6 interleaved 0.001 30 5156 4.819e-04 3.371e-03
+QTT N64_day185 logb 6 interleaved 0.0003 34 6280 1.173e-04 8.354e-04
+QTT N64_day185 logb 6 interleaved 0.0001 37 6934 2.990e-05 2.674e-04
+QTT N64_day185 logb 6 interleaved 3.0e-5 39 7500 8.978e-06 5.810e-05
+QTT N64_day185 logb 6 interleaved 1.0e-5 42 7988 3.727e-06 3.569e-05
+RANK N64_day185 logb 6 sequential 0.01 12 2,4,5,6,6,6,10,12,8,4,2
+RANK N64_day185 logb 6 sequential 0.001 20 2,4,7,10,13,12,20,16,8,4,2
+RANK N64_day185 logb 6 sequential 0.0001 30 2,4,8,13,19,21,30,16,8,4,2
+RANK N64_day185 logb 6 sequential 1.0e-6 36 2,4,8,16,26,36,32,16,8,4,2
+QTT N64_day185 logb 6 sequential 0.1 6 312 5.303e-02 2.845e-01
+QTT N64_day185 logb 6 sequential 0.03 11 830 1.561e-02 7.505e-02
+QTT N64_day185 logb 6 sequential 0.01 14 1300 5.355e-03 3.079e-02
+QTT N64_day185 logb 6 sequential 0.003 19 2192 1.502e-03 8.070e-03
+QTT N64_day185 logb 6 sequential 0.001 25 3168 4.127e-04 2.443e-03
+QTT N64_day185 logb 6 sequential 0.0003 30 4144 1.167e-04 7.011e-04
+QTT N64_day185 logb 6 sequential 0.0001 32 4728 3.991e-05 2.521e-04
+QTT N64_day185 logb 6 sequential 3.0e-5 32 5568 1.033e-05 8.346e-05
+QTT N64_day185 logb 6 sequential 1.0e-5 33 6266 3.318e-06 2.680e-05
+AMR N64_day185 logb 6 0.1 955 760 16 1.949e-02 9.829e-02
+AMR N64_day185 logb 6 0.03 1381 1168 16 7.316e-03 2.995e-02
+AMR N64_day185 logb 6 0.01 1906 1720 16 3.027e-03 9.967e-03
+AMR N64_day185 logb 6 0.003 2398 2144 8 7.549e-04 2.989e-03
+AMR N64_day185 logb 6 0.001 2848 2648 4 2.315e-04 9.991e-04
+AMR N64_day185 logb 6 0.0003 3235 3020 4 7.850e-05 3.000e-04
+AMR N64_day185 logb 6 0.0001 3865 3788 2 1.494e-05 9.946e-05
+TAG N64_day185 logb 6 0.01 2219 2413
+TAG N64_day185 logb 6 0.05 1383 1648
+RANK N64_day185 qmag 6 interleaved 0.01 18 2,4,7,12,18,17,14,8,7,4,2
+RANK N64_day185 qmag 6 interleaved 0.001 26 2,4,8,14,23,26,23,12,8,4,2
+RANK N64_day185 qmag 6 interleaved 0.0001 36 2,4,8,15,27,36,31,16,8,4,2
+RANK N64_day185 qmag 6 interleaved 1.0e-6 48 2,4,8,16,32,48,32,16,8,4,2
+QTT N64_day185 qmag 6 interleaved 0.1 12 1014 7.332e-02 8.735e-02
+QTT N64_day185 qmag 6 interleaved 0.03 18 2176 1.760e-02 1.374e-02
+QTT N64_day185 qmag 6 interleaved 0.01 22 3124 4.731e-03 2.923e-03
+QTT N64_day185 qmag 6 interleaved 0.003 26 4172 1.567e-03 1.200e-03
+QTT N64_day185 qmag 6 interleaved 0.001 32 5536 4.831e-04 3.366e-04
+QTT N64_day185 qmag 6 interleaved 0.0003 36 6642 1.370e-04 1.316e-04
+QTT N64_day185 qmag 6 interleaved 0.0001 39 7390 3.741e-05 3.315e-05
+QTT N64_day185 qmag 6 interleaved 3.0e-5 42 7988 1.088e-05 1.334e-05
+QTT N64_day185 qmag 6 interleaved 1.0e-5 45 8488 2.817e-06 2.377e-06
+RANK N64_day185 qmag 6 sequential 0.01 13 2,4,6,7,7,7,11,13,8,4,2
+RANK N64_day185 qmag 6 sequential 0.001 19 2,4,8,11,13,12,19,16,8,4,2
+RANK N64_day185 qmag 6 sequential 0.0001 28 2,4,8,14,20,21,28,16,8,4,2
+RANK N64_day185 qmag 6 sequential 1.0e-6 39 2,4,8,16,27,39,32,16,8,4,2
+QTT N64_day185 qmag 6 sequential 0.1 9 494 5.839e-02 3.510e-02
+QTT N64_day185 qmag 6 sequential 0.03 13 1006 1.555e-02 1.345e-02
+QTT N64_day185 qmag 6 sequential 0.01 16 1648 4.442e-03 3.698e-03
+QTT N64_day185 qmag 6 sequential 0.003 18 2144 1.650e-03 9.656e-04
+QTT N64_day185 qmag 6 sequential 0.001 23 3010 4.707e-04 2.630e-04
+QTT N64_day185 qmag 6 sequential 0.0003 28 4024 1.507e-04 8.862e-05
+QTT N64_day185 qmag 6 sequential 0.0001 31 4966 4.268e-05 3.009e-05
+QTT N64_day185 qmag 6 sequential 3.0e-5 32 5880 1.197e-05 8.482e-06
+QTT N64_day185 qmag 6 sequential 1.0e-5 35 6596 3.499e-06 2.829e-06
+AMR N64_day185 qmag 6 0.1 574 440 32 1.697e-01 9.920e-02
+AMR N64_day185 qmag 6 0.03 856 672 16 4.757e-02 2.981e-02
+AMR N64_day185 qmag 6 0.01 1111 856 16 2.009e-02 9.981e-03
+AMR N64_day185 qmag 6 0.003 1609 1348 16 7.413e-03 2.983e-03
+AMR N64_day185 qmag 6 0.001 2164 1904 8 2.462e-03 9.999e-04
+AMR N64_day185 qmag 6 0.0003 2827 2620 4 4.949e-04 2.990e-04
+AMR N64_day185 qmag 6 0.0001 3130 2940 4 1.577e-04 9.987e-05
+TAG N64_day185 qmag 6 0.01 1083 1543
+TAG N64_day185 qmag 6 0.05 547 892
+RANK N64_day185 K 6 interleaved 0.01 21 2,4,7,12,18,21,20,11,7,4,2
+RANK N64_day185 K 6 interleaved 0.001 29 2,4,8,14,24,29,28,16,8,4,2
+RANK N64_day185 K 6 interleaved 0.0001 37 2,4,8,16,28,37,31,16,8,4,2
+RANK N64_day185 K 6 interleaved 1.0e-6 51 2,4,8,16,32,51,32,16,8,4,2
+QTT N64_day185 K 6 interleaved 0.1 14 1280 6.901e-02 8.678e-02
+QTT N64_day185 K 6 interleaved 0.03 22 3018 1.557e-02 1.517e-02
+QTT N64_day185 K 6 interleaved 0.01 25 4098 4.499e-03 3.410e-03
+QTT N64_day185 K 6 interleaved 0.003 29 5232 1.214e-03 1.033e-03
+QTT N64_day185 K 6 interleaved 0.001 34 6214 4.241e-04 3.158e-04
+QTT N64_day185 K 6 interleaved 0.0003 38 7052 1.035e-04 1.346e-04
+QTT N64_day185 K 6 interleaved 0.0001 41 7748 2.753e-05 2.464e-05
+QTT N64_day185 K 6 interleaved 3.0e-5 44 8360 8.557e-06 7.514e-06
+QTT N64_day185 K 6 interleaved 1.0e-5 47 8744 2.993e-06 2.901e-06
+RANK N64_day185 K 6 sequential 0.01 12 2,4,6,8,7,6,10,12,8,4,2
+RANK N64_day185 K 6 sequential 0.001 19 2,4,8,12,14,12,19,16,8,4,2
+RANK N64_day185 K 6 sequential 0.0001 28 2,4,8,14,22,22,28,16,8,4,2
+RANK N64_day185 K 6 sequential 1.0e-6 45 2,4,8,16,31,45,32,16,8,4,2
+QTT N64_day185 K 6 sequential 0.1 8 500 5.773e-02 5.347e-02
+QTT N64_day185 K 6 sequential 0.03 12 996 1.175e-02 7.198e-03
+QTT N64_day185 K 6 sequential 0.01 14 1456 5.605e-03 4.728e-03
+QTT N64_day185 K 6 sequential 0.003 19 2352 1.316e-03 9.192e-04
+QTT N64_day185 K 6 sequential 0.001 23 3066 5.146e-04 5.580e-04
+QTT N64_day185 K 6 sequential 0.0003 28 4260 1.486e-04 1.393e-04
+QTT N64_day185 K 6 sequential 0.0001 31 5430 4.690e-05 4.554e-05
+QTT N64_day185 K 6 sequential 3.0e-5 35 6800 1.033e-05 8.400e-06
+QTT N64_day185 K 6 sequential 1.0e-5 41 7748 3.191e-06 3.042e-06
+AMR N64_day185 K 6 0.1 481 360 32 1.732e-01 9.584e-02
+AMR N64_day185 K 6 0.03 805 644 16 5.209e-02 2.996e-02
+AMR N64_day185 K 6 0.01 979 752 16 2.178e-02 9.897e-03
+AMR N64_day185 K 6 0.003 1318 1036 16 9.899e-03 2.989e-03
+AMR N64_day185 K 6 0.001 1831 1536 8 2.875e-03 9.952e-04
+AMR N64_day185 K 6 0.0003 2506 2180 4 8.172e-04 2.992e-04
+AMR N64_day185 K 6 0.0001 3184 2948 4 2.335e-04 9.868e-05
+TAG N64_day185 K 6 0.01 829 1228
+TAG N64_day185 K 6 0.05 502 835
+RANK N64_day200 h 6 interleaved 0.01 10 2,4,6,10,10,9,8,5,5,3,2
+RANK N64_day200 h 6 interleaved 0.001 21 2,4,8,14,21,19,17,10,8,4,2
+RANK N64_day200 h 6 interleaved 0.0001 30 2,4,8,16,28,30,26,16,8,4,2
+RANK N64_day200 h 6 interleaved 1.0e-6 50 2,4,8,16,32,50,32,16,8,4,2
+QTT N64_day200 h 6 interleaved 0.1 4 168 6.234e-02 2.240e-01
+QTT N64_day200 h 6 interleaved 0.03 10 888 1.621e-02 6.915e-02
+QTT N64_day200 h 6 interleaved 0.01 15 1762 6.459e-03 3.442e-02
+QTT N64_day200 h 6 interleaved 0.003 21 3000 1.547e-03 7.276e-03
+QTT N64_day200 h 6 interleaved 0.001 25 4278 5.233e-04 3.087e-03
+QTT N64_day200 h 6 interleaved 0.0003 31 5756 1.455e-04 9.175e-04
+QTT N64_day200 h 6 interleaved 0.0001 37 7146 3.705e-05 1.895e-04
+QTT N64_day200 h 6 interleaved 3.0e-5 42 8104 7.873e-06 4.799e-05
+QTT N64_day200 h 6 interleaved 1.0e-5 46 8616 2.912e-06 1.582e-05
+RANK N64_day200 h 6 sequential 0.01 7 2,4,5,5,5,5,7,7,6,4,2
+RANK N64_day200 h 6 sequential 0.001 17 2,4,8,11,12,12,17,15,8,4,2
+RANK N64_day200 h 6 sequential 0.0001 29 2,4,8,14,20,22,29,16,8,4,2
+RANK N64_day200 h 6 sequential 1.0e-6 42 2,4,8,16,28,42,32,16,8,4,2
+QTT N64_day200 h 6 sequential 0.1 3 128 4.855e-02 1.824e-01
+QTT N64_day200 h 6 sequential 0.03 7 466 1.741e-02 5.917e-02
+QTT N64_day200 h 6 sequential 0.01 10 866 5.766e-03 6.572e-02
+QTT N64_day200 h 6 sequential 0.003 16 1900 1.505e-03 6.078e-03
+QTT N64_day200 h 6 sequential 0.001 23 3032 4.703e-04 2.852e-03
+QTT N64_day200 h 6 sequential 0.0003 29 4194 1.444e-04 6.450e-04
+QTT N64_day200 h 6 sequential 0.0001 32 5348 3.956e-05 2.029e-04
+QTT N64_day200 h 6 sequential 3.0e-5 32 6248 1.005e-05 6.299e-05
+QTT N64_day200 h 6 sequential 1.0e-5 38 7052 3.344e-06 1.779e-05
+AMR N64_day200 h 6 0.1 172 0 16 4.558e-02 9.965e-02
+AMR N64_day200 h 6 0.03 982 644 16 1.654e-02 2.990e-02
+AMR N64_day200 h 6 0.01 1906 1624 8 4.340e-03 9.974e-03
+AMR N64_day200 h 6 0.003 2614 2332 4 1.258e-03 2.982e-03
+AMR N64_day200 h 6 0.001 3193 2900 4 4.000e-04 9.990e-04
+AMR N64_day200 h 6 0.0003 3937 3884 2 4.435e-05 2.976e-04
+AMR N64_day200 h 6 0.0001 4063 4052 2 7.378e-06 9.658e-05
+TAG N64_day200 h 6 0.01 3182 3304
+TAG N64_day200 h 6 0.05 923 1444
+RANK N64_day200 N 6 interleaved 0.01 10 2,4,6,9,10,9,8,5,4,2,2
+RANK N64_day200 N 6 interleaved 0.001 21 2,4,8,14,21,20,17,10,7,4,2
+RANK N64_day200 N 6 interleaved 0.0001 33 2,4,8,16,28,33,27,16,8,4,2
+RANK N64_day200 N 6 interleaved 1.0e-6 50 2,4,8,16,32,50,32,16,8,4,2
+QTT N64_day200 N 6 interleaved 0.1 4 124 5.792e-02 2.795e-01
+QTT N64_day200 N 6 interleaved 0.03 9 732 1.810e-02 1.191e-01
+QTT N64_day200 N 6 interleaved 0.01 14 1634 6.502e-03 4.940e-02
+QTT N64_day200 N 6 interleaved 0.003 21 2972 1.777e-03 1.335e-02
+QTT N64_day200 N 6 interleaved 0.001 26 4508 5.352e-04 4.693e-03
+QTT N64_day200 N 6 interleaved 0.0003 33 6266 1.232e-04 7.596e-04
+QTT N64_day200 N 6 interleaved 0.0001 38 7376 3.732e-05 2.535e-04
+QTT N64_day200 N 6 interleaved 3.0e-5 42 8104 8.955e-06 8.612e-05
+QTT N64_day200 N 6 interleaved 1.0e-5 47 8744 2.311e-06 2.071e-05
+RANK N64_day200 N 6 sequential 0.01 7 2,4,5,5,5,4,6,7,6,4,2
+RANK N64_day200 N 6 sequential 0.001 15 2,4,7,11,11,10,15,14,8,4,2
+RANK N64_day200 N 6 sequential 0.0001 28 2,4,8,14,20,20,28,16,8,4,2
+RANK N64_day200 N 6 sequential 1.0e-6 41 2,4,8,16,29,41,32,16,8,4,2
+QTT N64_day200 N 6 sequential 0.1 3 64 5.542e-02 2.805e-01
+QTT N64_day200 N 6 sequential 0.03 7 430 1.884e-02 1.196e-01
+QTT N64_day200 N 6 sequential 0.01 10 834 5.599e-03 3.550e-02
+QTT N64_day200 N 6 sequential 0.003 14 1586 1.967e-03 1.068e-02
+QTT N64_day200 N 6 sequential 0.001 21 2830 4.627e-04 3.476e-03
+QTT N64_day200 N 6 sequential 0.0003 28 4092 1.485e-04 1.034e-03
+QTT N64_day200 N 6 sequential 0.0001 31 5236 4.764e-05 3.728e-04
+QTT N64_day200 N 6 sequential 3.0e-5 32 6132 1.145e-05 1.526e-04
+QTT N64_day200 N 6 sequential 1.0e-5 37 7040 2.872e-06 1.974e-05
+AMR N64_day200 N 6 0.1 352 76 16 3.016e-02 9.983e-02
+AMR N64_day200 N 6 0.03 1360 1052 8 8.508e-03 3.000e-02
+AMR N64_day200 N 6 0.01 2155 1884 8 2.509e-03 9.963e-03
+AMR N64_day200 N 6 0.003 2857 2544 4 7.026e-04 2.999e-03
+AMR N64_day200 N 6 0.001 3610 3448 2 1.893e-04 9.987e-04
+AMR N64_day200 N 6 0.0003 3994 3960 2 2.265e-05 2.959e-04
+AMR N64_day200 N 6 0.0001 4084 4080 2 2.798e-06 8.877e-05
+TAG N64_day200 N 6 0.01 3076 3259
+TAG N64_day200 N 6 0.05 1330 1801
+RANK N64_day200 b 6 interleaved 0.01 22 2,4,7,14,22,22,19,11,7,4,2
+RANK N64_day200 b 6 interleaved 0.001 35 2,4,8,16,29,35,29,16,8,4,2
+RANK N64_day200 b 6 interleaved 0.0001 46 2,4,8,16,32,46,32,16,8,4,2
+RANK N64_day200 b 6 interleaved 1.0e-6 57 2,4,8,16,32,57,32,16,8,4,2
+QTT N64_day200 b 6 interleaved 0.1 15 1422 6.222e-02 1.074e-01
+QTT N64_day200 b 6 interleaved 0.03 22 3260 1.853e-02 3.927e-02
+QTT N64_day200 b 6 interleaved 0.01 28 4798 5.930e-03 6.415e-03
+QTT N64_day200 b 6 interleaved 0.003 35 6596 1.414e-03 2.177e-03
+QTT N64_day200 b 6 interleaved 0.001 41 7748 4.085e-04 8.117e-04
+QTT N64_day200 b 6 interleaved 0.0003 47 8744 6.323e-05 1.135e-04
+QTT N64_day200 b 6 interleaved 0.0001 49 9000 2.667e-05 5.014e-05
+QTT N64_day200 b 6 interleaved 3.0e-5 52 9384 8.378e-06 1.676e-05
+QTT N64_day200 b 6 interleaved 1.0e-5 55 9768 2.578e-06 4.720e-06
+RANK N64_day200 b 6 sequential 0.01 15 2,4,7,10,11,10,15,14,8,4,2
+RANK N64_day200 b 6 sequential 0.001 26 2,4,8,15,21,20,26,16,8,4,2
+RANK N64_day200 b 6 sequential 0.0001 32 2,4,8,16,27,32,32,16,8,4,2
+RANK N64_day200 b 6 sequential 1.0e-6 48 2,4,8,16,31,48,32,16,8,4,2
+QTT N64_day200 b 6 sequential 0.1 10 706 5.975e-02 6.169e-02
+QTT N64_day200 b 6 sequential 0.03 14 1548 1.659e-02 1.492e-02
+QTT N64_day200 b 6 sequential 0.01 20 2572 4.637e-03 4.731e-03
+QTT N64_day200 b 6 sequential 0.003 26 3980 1.393e-03 2.386e-03
+QTT N64_day200 b 6 sequential 0.001 30 5428 4.797e-04 5.390e-04
+QTT N64_day200 b 6 sequential 0.0003 32 6344 1.053e-04 1.115e-04
+QTT N64_day200 b 6 sequential 0.0001 36 6920 3.638e-05 4.144e-05
+QTT N64_day200 b 6 sequential 3.0e-5 41 7634 9.718e-06 1.108e-05
+QTT N64_day200 b 6 sequential 1.0e-5 44 8120 4.062e-06 5.804e-06
+AMR N64_day200 b 6 0.1 1021 788 16 9.339e-02 9.908e-02
+AMR N64_day200 b 6 0.03 1333 1084 16 4.006e-02 2.995e-02
+AMR N64_day200 b 6 0.01 1744 1416 8 1.766e-02 9.949e-03
+AMR N64_day200 b 6 0.003 2671 2440 4 4.593e-03 2.999e-03
+AMR N64_day200 b 6 0.001 3226 3036 4 1.139e-03 9.916e-04
+AMR N64_day200 b 6 0.0003 3676 3548 4 2.833e-04 2.929e-04
+AMR N64_day200 b 6 0.0001 3943 3892 2 6.766e-05 9.892e-05
+TAG N64_day200 b 6 0.01 2137 2641
+TAG N64_day200 b 6 0.05 902 1411
+RANK N64_day200 logb 6 interleaved 0.01 17 2,4,7,13,17,14,11,6,4,2,2
+RANK N64_day200 logb 6 interleaved 0.001 29 2,4,8,16,26,29,24,14,8,4,2
+RANK N64_day200 logb 6 interleaved 0.0001 43 2,4,8,16,31,43,32,16,8,4,2
+RANK N64_day200 logb 6 interleaved 1.0e-6 55 2,4,8,16,32,55,32,16,8,4,2
+QTT N64_day200 logb 6 interleaved 0.1 8 566 5.423e-02 2.659e-01
+QTT N64_day200 logb 6 interleaved 0.03 18 1678 1.661e-02 1.027e-01
+QTT N64_day200 logb 6 interleaved 0.01 23 3016 6.087e-03 4.063e-02
+QTT N64_day200 logb 6 interleaved 0.003 29 4988 1.617e-03 1.056e-02
+QTT N64_day200 logb 6 interleaved 0.001 37 6828 4.976e-04 4.765e-03
+QTT N64_day200 logb 6 interleaved 0.0003 43 8114 9.636e-05 1.213e-03
+QTT N64_day200 logb 6 interleaved 0.0001 46 8616 2.819e-05 2.310e-04
+QTT N64_day200 logb 6 interleaved 3.0e-5 50 9128 7.547e-06 6.239e-05
+QTT N64_day200 logb 6 interleaved 1.0e-5 53 9512 2.608e-06 2.739e-05
+RANK N64_day200 logb 6 sequential 0.01 13 2,4,6,8,8,8,12,13,8,4,2
+RANK N64_day200 logb 6 sequential 0.001 25 2,4,8,14,19,19,25,16,8,4,2
+RANK N64_day200 logb 6 sequential 0.0001 32 2,4,8,15,26,31,32,16,8,4,2
+RANK N64_day200 logb 6 sequential 1.0e-6 46 2,4,8,16,31,46,32,16,8,4,2
+QTT N64_day200 logb 6 sequential 0.1 6 356 5.695e-02 3.266e-01
+QTT N64_day200 logb 6 sequential 0.03 12 1020 1.789e-02 8.580e-02
+QTT N64_day200 logb 6 sequential 0.01 16 1864 6.111e-03 3.644e-02
+QTT N64_day200 logb 6 sequential 0.003 24 3560 1.515e-03 1.335e-02
+QTT N64_day200 logb 6 sequential 0.001 29 4962 4.665e-04 3.390e-03
+QTT N64_day200 logb 6 sequential 0.0003 32 6064 1.260e-04 1.134e-03
+QTT N64_day200 logb 6 sequential 0.0001 35 6698 3.465e-05 2.383e-04
+QTT N64_day200 logb 6 sequential 3.0e-5 39 7280 1.196e-05 9.357e-05
+QTT N64_day200 logb 6 sequential 1.0e-5 43 7996 2.833e-06 3.846e-05
+AMR N64_day200 logb 6 0.1 1261 1036 16 2.264e-02 9.920e-02
+AMR N64_day200 logb 6 0.03 1882 1604 8 7.982e-03 2.965e-02
+AMR N64_day200 logb 6 0.01 2575 2352 8 2.616e-03 9.774e-03
+AMR N64_day200 logb 6 0.003 3115 2892 4 6.980e-04 2.992e-03
+AMR N64_day200 logb 6 0.001 3598 3472 4 1.788e-04 9.995e-04
+AMR N64_day200 logb 6 0.0003 3916 3856 2 3.285e-05 2.920e-04
+AMR N64_day200 logb 6 0.0001 4060 4048 2 7.330e-06 9.754e-05
+TAG N64_day200 logb 6 0.01 3126 3409
+TAG N64_day200 logb 6 0.05 1789 2188
+RANK N64_day200 qmag 6 interleaved 0.01 18 2,4,7,13,18,16,14,8,7,4,2
+RANK N64_day200 qmag 6 interleaved 0.001 28 2,4,8,16,27,28,22,12,8,4,2
+RANK N64_day200 qmag 6 interleaved 0.0001 41 2,4,8,16,31,41,31,16,8,4,2
+RANK N64_day200 qmag 6 interleaved 1.0e-6 58 2,4,8,16,32,58,32,16,8,4,2
+QTT N64_day200 qmag 6 interleaved 0.1 12 992 6.939e-02 1.395e-01
+QTT N64_day200 qmag 6 interleaved 0.03 19 2172 1.671e-02 1.565e-02
+QTT N64_day200 qmag 6 interleaved 0.01 23 3278 5.480e-03 6.640e-03
+QTT N64_day200 qmag 6 interleaved 0.003 28 4840 1.401e-03 1.497e-03
+QTT N64_day200 qmag 6 interleaved 0.001 35 6252 5.302e-04 5.942e-04
+QTT N64_day200 qmag 6 interleaved 0.0003 42 7872 1.193e-04 1.280e-04
+QTT N64_day200 qmag 6 interleaved 0.0001 46 8616 2.986e-05 2.438e-05
+QTT N64_day200 qmag 6 interleaved 3.0e-5 51 9256 6.630e-06 7.998e-06
+QTT N64_day200 qmag 6 interleaved 1.0e-5 54 9640 2.649e-06 2.944e-06
+RANK N64_day200 qmag 6 sequential 0.01 12 2,4,7,8,8,8,12,12,8,4,2
+RANK N64_day200 qmag 6 sequential 0.001 22 2,4,8,14,18,16,22,16,8,4,2
+RANK N64_day200 qmag 6 sequential 0.0001 30 2,4,8,16,27,28,30,16,8,4,2
+RANK N64_day200 qmag 6 sequential 1.0e-6 48 2,4,8,16,31,48,32,16,8,4,2
+QTT N64_day200 qmag 6 sequential 0.1 10 594 4.693e-02 4.402e-02
+QTT N64_day200 qmag 6 sequential 0.03 12 1092 1.651e-02 1.191e-02
+QTT N64_day200 qmag 6 sequential 0.01 16 1984 5.439e-03 4.665e-03
+QTT N64_day200 qmag 6 sequential 0.003 22 3056 1.459e-03 1.671e-03
+QTT N64_day200 qmag 6 sequential 0.001 26 4416 4.654e-04 3.469e-04
+QTT N64_day200 qmag 6 sequential 0.0003 31 5900 1.070e-04 7.650e-05
+QTT N64_day200 qmag 6 sequential 0.0001 33 6560 3.231e-05 3.017e-05
+QTT N64_day200 qmag 6 sequential 3.0e-5 38 7268 8.557e-06 7.988e-06
+QTT N64_day200 qmag 6 sequential 1.0e-5 44 8120 2.791e-06 2.642e-06
+AMR N64_day200 qmag 6 0.1 877 688 16 1.145e-01 9.955e-02
+AMR N64_day200 qmag 6 0.03 1117 892 16 4.417e-02 2.912e-02
+AMR N64_day200 qmag 6 0.01 1435 1160 16 1.797e-02 9.960e-03
+AMR N64_day200 qmag 6 0.003 1864 1492 8 7.037e-03 2.991e-03
+AMR N64_day200 qmag 6 0.001 2773 2484 4 1.852e-03 9.989e-04
+AMR N64_day200 qmag 6 0.0003 3421 3264 4 3.701e-04 2.993e-04
+AMR N64_day200 qmag 6 0.0001 3694 3580 4 1.115e-04 9.852e-05
+TAG N64_day200 qmag 6 0.01 1221 1801
+TAG N64_day200 qmag 6 0.05 716 1213
+RANK N64_day200 K 6 interleaved 0.01 21 2,4,7,13,21,21,19,12,8,4,2
+RANK N64_day200 K 6 interleaved 0.001 31 2,4,8,15,27,31,27,16,8,4,2
+RANK N64_day200 K 6 interleaved 0.0001 43 2,4,8,16,31,43,31,16,8,4,2
+RANK N64_day200 K 6 interleaved 1.0e-6 57 2,4,8,16,32,57,32,16,8,4,2
+QTT N64_day200 K 6 interleaved 0.1 16 1676 5.812e-02 9.196e-02
+QTT N64_day200 K 6 interleaved 0.03 21 3216 1.641e-02 3.646e-02
+QTT N64_day200 K 6 interleaved 0.01 26 4376 5.187e-03 4.820e-03
+QTT N64_day200 K 6 interleaved 0.003 31 5850 1.353e-03 1.976e-03
+QTT N64_day200 K 6 interleaved 0.001 37 7146 3.279e-04 7.432e-04
+QTT N64_day200 K 6 interleaved 0.0003 43 7996 1.144e-04 1.252e-04
+QTT N64_day200 K 6 interleaved 0.0001 47 8744 2.695e-05 2.367e-05
+QTT N64_day200 K 6 interleaved 3.0e-5 52 9384 8.271e-06 9.763e-06
+QTT N64_day200 K 6 interleaved 1.0e-5 55 9768 2.774e-06 5.029e-06
+RANK N64_day200 K 6 sequential 0.01 11 2,4,7,9,9,8,11,11,7,4,2
+RANK N64_day200 K 6 sequential 0.001 20 2,4,8,14,18,16,20,16,8,4,2
+RANK N64_day200 K 6 sequential 0.0001 30 2,4,8,16,26,27,30,16,8,4,2
+RANK N64_day200 K 6 sequential 1.0e-6 50 2,4,8,16,31,50,32,16,8,4,2
+QTT N64_day200 K 6 sequential 0.1 8 620 5.100e-02 6.542e-02
+QTT N64_day200 K 6 sequential 0.03 11 1112 1.823e-02 1.550e-02
+QTT N64_day200 K 6 sequential 0.01 14 1796 5.943e-03 6.231e-03
+QTT N64_day200 K 6 sequential 0.003 20 2990 1.572e-03 1.320e-03
+QTT N64_day200 K 6 sequential 0.001 24 3908 5.256e-04 5.022e-04
+QTT N64_day200 K 6 sequential 0.0003 30 5696 1.263e-04 1.132e-04
+QTT N64_day200 K 6 sequential 0.0001 34 6680 3.371e-05 4.151e-05
+QTT N64_day200 K 6 sequential 3.0e-5 41 7634 1.087e-05 1.249e-05
+QTT N64_day200 K 6 sequential 1.0e-5 47 8618 2.268e-06 2.524e-06
+AMR N64_day200 K 6 0.1 826 632 16 1.157e-01 9.981e-02
+AMR N64_day200 K 6 0.03 1087 860 16 3.483e-02 2.984e-02
+AMR N64_day200 K 6 0.01 1282 1024 16 1.635e-02 9.881e-03
+AMR N64_day200 K 6 0.003 1645 1316 8 5.932e-03 2.942e-03
+AMR N64_day200 K 6 0.001 2305 2000 8 2.177e-03 9.977e-04
+AMR N64_day200 K 6 0.0003 3052 2792 4 5.968e-04 2.999e-04
+AMR N64_day200 K 6 0.0001 3691 3556 2 1.461e-04 9.994e-05
+TAG N64_day200 K 6 0.01 984 1549
+TAG N64_day200 K 6 0.05 665 1126
+RANK N64_day185_diff h 6 interleaved 0.01 9 2,3,5,8,9,8,8,5,4,3,2
+RANK N64_day185_diff h 6 interleaved 0.001 19 2,4,7,12,16,19,16,10,8,4,2
+RANK N64_day185_diff h 6 interleaved 0.0001 27 2,4,8,15,22,27,25,14,8,4,2
+RANK N64_day185_diff h 6 interleaved 1.0e-6 41 2,4,8,16,32,41,32,16,8,4,2
+QTT N64_day185_diff h 6 interleaved 0.1 4 144 6.650e-02 2.053e-01
+QTT N64_day185_diff h 6 interleaved 0.03 9 692 1.769e-02 7.278e-02
+QTT N64_day185_diff h 6 interleaved 0.01 13 1470 5.879e-03 4.017e-02
+QTT N64_day185_diff h 6 interleaved 0.003 19 2470 1.617e-03 6.990e-03
+QTT N64_day185_diff h 6 interleaved 0.001 24 3560 5.198e-04 3.129e-03
+QTT N64_day185_diff h 6 interleaved 0.0003 28 4624 1.638e-04 9.924e-04
+QTT N64_day185_diff h 6 interleaved 0.0001 31 5756 4.612e-05 2.429e-04
+QTT N64_day185_diff h 6 interleaved 3.0e-5 34 6680 1.132e-05 5.903e-05
+QTT N64_day185_diff h 6 interleaved 1.0e-5 38 7376 3.773e-06 1.627e-05
+RANK N64_day185_diff h 6 sequential 0.01 7 2,4,4,4,4,4,6,7,5,3,2
+RANK N64_day185_diff h 6 sequential 0.001 16 2,4,7,9,10,10,16,13,8,4,2
+RANK N64_day185_diff h 6 sequential 0.0001 25 2,4,8,12,16,17,25,16,8,4,2
+RANK N64_day185_diff h 6 sequential 1.0e-6 33 2,4,8,16,24,33,32,16,8,4,2
+QTT N64_day185_diff h 6 sequential 0.1 3 118 5.198e-02 1.581e-01
+QTT N64_day185_diff h 6 sequential 0.03 6 336 1.879e-02 7.998e-02
+QTT N64_day185_diff h 6 sequential 0.01 9 722 5.507e-03 6.308e-02
+QTT N64_day185_diff h 6 sequential 0.003 16 1610 1.415e-03 7.804e-03
+QTT N64_day185_diff h 6 sequential 0.001 19 2148 6.052e-04 4.691e-03
+QTT N64_day185_diff h 6 sequential 0.0003 25 3112 1.290e-04 7.677e-04
+QTT N64_day185_diff h 6 sequential 0.0001 29 3908 4.610e-05 1.702e-04
+QTT N64_day185_diff h 6 sequential 3.0e-5 32 4728 1.206e-05 4.998e-05
+QTT N64_day185_diff h 6 sequential 1.0e-5 32 5372 3.829e-06 1.647e-05
+AMR N64_day185_diff h 6 0.1 142 0 32 4.598e-02 9.785e-02
+AMR N64_day185_diff h 6 0.03 829 608 16 1.549e-02 2.991e-02
+AMR N64_day185_diff h 6 0.01 1471 1248 8 4.366e-03 9.998e-03
+AMR N64_day185_diff h 6 0.003 1999 1720 8 1.253e-03 2.978e-03
+AMR N64_day185_diff h 6 0.001 2629 2272 4 4.104e-04 9.951e-04
+AMR N64_day185_diff h 6 0.0003 3553 3372 2 1.019e-04 2.995e-04
+AMR N64_day185_diff h 6 0.0001 4003 3972 2 1.229e-05 9.627e-05
+TAG N64_day185_diff h 6 0.01 2881 2989
+TAG N64_day185_diff h 6 0.05 740 1102
+RANK N64_day185_diff N 6 interleaved 0.01 9 2,3,6,8,9,8,7,5,4,2,2
+RANK N64_day185_diff N 6 interleaved 0.001 19 2,4,7,12,16,19,17,10,7,4,2
+RANK N64_day185_diff N 6 interleaved 0.0001 29 2,4,8,15,23,29,27,16,8,4,2
+RANK N64_day185_diff N 6 interleaved 1.0e-6 42 2,4,8,16,32,42,32,16,8,4,2
+QTT N64_day185_diff N 6 interleaved 0.1 4 150 5.284e-02 2.497e-01
+QTT N64_day185_diff N 6 interleaved 0.03 9 630 1.988e-02 1.104e-01
+QTT N64_day185_diff N 6 interleaved 0.01 13 1450 5.813e-03 5.499e-02
+QTT N64_day185_diff N 6 interleaved 0.003 19 2438 1.836e-03 1.157e-02
+QTT N64_day185_diff N 6 interleaved 0.001 24 3692 5.593e-04 5.024e-03
+QTT N64_day185_diff N 6 interleaved 0.0003 29 5118 1.491e-04 1.586e-03
+QTT N64_day185_diff N 6 interleaved 0.0001 33 6266 3.113e-05 2.679e-04
+QTT N64_day185_diff N 6 interleaved 3.0e-5 36 6816 1.296e-05 8.297e-05
+QTT N64_day185_diff N 6 interleaved 1.0e-5 38 7484 3.434e-06 2.883e-05
+RANK N64_day185_diff N 6 sequential 0.01 7 2,4,4,4,4,4,6,7,5,3,2
+RANK N64_day185_diff N 6 sequential 0.001 14 2,4,7,9,10,9,14,13,8,4,2
+RANK N64_day185_diff N 6 sequential 0.0001 23 2,4,8,12,16,16,23,16,8,4,2
+RANK N64_day185_diff N 6 sequential 1.0e-6 32 2,4,8,16,25,32,32,16,8,4,2
+QTT N64_day185_diff N 6 sequential 0.1 2 46 6.254e-02 2.562e-01
+QTT N64_day185_diff N 6 sequential 0.03 6 322 1.839e-02 1.394e-01
+QTT N64_day185_diff N 6 sequential 0.01 9 722 5.107e-03 3.322e-02
+QTT N64_day185_diff N 6 sequential 0.003 13 1346 1.725e-03 1.202e-02
+QTT N64_day185_diff N 6 sequential 0.001 18 2070 5.371e-04 4.504e-03
+QTT N64_day185_diff N 6 sequential 0.0003 23 2906 1.561e-04 9.940e-04
+QTT N64_day185_diff N 6 sequential 0.0001 28 3808 4.897e-05 2.894e-04
+QTT N64_day185_diff N 6 sequential 3.0e-5 32 4698 1.249e-05 6.483e-05
+QTT N64_day185_diff N 6 sequential 1.0e-5 32 5348 3.844e-06 2.544e-05
+AMR N64_day185_diff N 6 0.1 271 40 16 2.733e-02 9.933e-02
+AMR N64_day185_diff N 6 0.03 1105 888 16 1.041e-02 2.991e-02
+AMR N64_day185_diff N 6 0.01 1639 1396 8 2.667e-03 9.900e-03
+AMR N64_day185_diff N 6 0.003 2272 1960 4 8.023e-04 2.994e-03
+AMR N64_day185_diff N 6 0.001 2950 2600 4 2.574e-04 9.773e-04
+AMR N64_day185_diff N 6 0.0003 3760 3648 2 5.476e-05 2.993e-04
+AMR N64_day185_diff N 6 0.0001 4045 4028 2 6.375e-06 9.934e-05
+TAG N64_day185_diff N 6 0.01 2638 2770
+TAG N64_day185_diff N 6 0.05 1024 1390
+RANK N64_day185_diff b 6 interleaved 0.01 20 2,4,7,12,19,20,17,9,7,4,2
+RANK N64_day185_diff b 6 interleaved 0.001 29 2,4,8,14,24,29,28,16,8,4,2
+RANK N64_day185_diff b 6 interleaved 0.0001 38 2,4,8,16,28,38,32,16,8,4,2
+RANK N64_day185_diff b 6 interleaved 1.0e-6 49 2,4,8,16,32,49,32,16,8,4,2
+QTT N64_day185_diff b 6 interleaved 0.1 13 1214 6.478e-02 8.269e-02
+QTT N64_day185_diff b 6 interleaved 0.03 20 2648 1.542e-02 3.896e-02
+QTT N64_day185_diff b 6 interleaved 0.01 25 3838 5.285e-03 8.734e-03
+QTT N64_day185_diff b 6 interleaved 0.003 30 5336 1.463e-03 2.212e-03
+QTT N64_day185_diff b 6 interleaved 0.001 34 6114 5.669e-04 8.019e-04
+QTT N64_day185_diff b 6 interleaved 0.0003 38 7160 9.396e-05 1.304e-04
+QTT N64_day185_diff b 6 interleaved 0.0001 40 7512 3.642e-05 4.925e-05
+QTT N64_day185_diff b 6 interleaved 3.0e-5 43 8114 9.254e-06 1.217e-05
+QTT N64_day185_diff b 6 interleaved 1.0e-5 45 8488 2.893e-06 5.159e-06
+RANK N64_day185_diff b 6 sequential 0.01 14 2,4,6,8,8,7,13,14,8,4,2
+RANK N64_day185_diff b 6 sequential 0.001 22 2,4,8,12,15,13,22,16,8,4,2
+RANK N64_day185_diff b 6 sequential 0.0001 29 2,4,8,14,21,22,29,16,8,4,2
+RANK N64_day185_diff b 6 sequential 1.0e-6 40 2,4,8,16,28,40,32,16,8,4,2
+QTT N64_day185_diff b 6 sequential 0.1 10 666 5.553e-02 5.170e-02
+QTT N64_day185_diff b 6 sequential 0.03 14 1216 1.427e-02 1.415e-02
+QTT N64_day185_diff b 6 sequential 0.01 16 1774 4.865e-03 5.753e-03
+QTT N64_day185_diff b 6 sequential 0.003 22 2642 1.260e-03 1.388e-03
+QTT N64_day185_diff b 6 sequential 0.001 26 3340 4.683e-04 5.348e-04
+QTT N64_day185_diff b 6 sequential 0.0003 30 4338 1.270e-04 1.074e-04
+QTT N64_day185_diff b 6 sequential 0.0001 32 5238 3.350e-05 4.369e-05
+QTT N64_day185_diff b 6 sequential 3.0e-5 32 6038 8.992e-06 8.988e-06
+QTT N64_day185_diff b 6 sequential 1.0e-5 35 6596 3.463e-06 4.046e-06
+AMR N64_day185_diff b 6 0.1 724 528 32 1.572e-01 9.989e-02
+AMR N64_day185_diff b 6 0.03 1006 772 16 4.026e-02 2.923e-02
+AMR N64_day185_diff b 6 0.01 1366 1076 16 1.767e-02 9.980e-03
+AMR N64_day185_diff b 6 0.003 2074 1836 8 6.126e-03 2.990e-03
+AMR N64_day185_diff b 6 0.001 2641 2408 8 1.330e-03 9.899e-04
+AMR N64_day185_diff b 6 0.0003 3037 2852 4 4.192e-04 2.960e-04
+AMR N64_day185_diff b 6 0.0001 3415 3208 4 1.349e-04 9.998e-05
+TAG N64_day185_diff b 6 0.01 1683 2140
+TAG N64_day185_diff b 6 0.05 682 1084
+RANK N64_day185_diff logb 6 interleaved 0.01 14 2,4,6,10,14,13,10,6,4,2,2
+RANK N64_day185_diff logb 6 interleaved 0.001 25 2,4,7,12,20,25,22,13,8,4,2
+RANK N64_day185_diff logb 6 interleaved 0.0001 34 2,4,8,16,25,34,31,16,8,4,2
+RANK N64_day185_diff logb 6 interleaved 1.0e-6 45 2,4,8,16,32,45,32,16,8,4,2
+QTT N64_day185_diff logb 6 interleaved 0.1 7 432 5.751e-02 2.849e-01
+QTT N64_day185_diff logb 6 interleaved 0.03 14 1224 1.857e-02 1.006e-01
+QTT N64_day185_diff logb 6 interleaved 0.01 18 2244 5.896e-03 3.663e-02
+QTT N64_day185_diff logb 6 interleaved 0.003 25 3628 1.874e-03 1.316e-02
+QTT N64_day185_diff logb 6 interleaved 0.001 31 5350 5.269e-04 3.447e-03
+QTT N64_day185_diff logb 6 interleaved 0.0003 34 6280 1.281e-04 7.582e-04
+QTT N64_day185_diff logb 6 interleaved 0.0001 36 6920 3.392e-05 2.913e-04
+QTT N64_day185_diff logb 6 interleaved 3.0e-5 39 7390 1.040e-05 1.130e-04
+QTT N64_day185_diff logb 6 interleaved 1.0e-5 42 7988 3.356e-06 2.710e-05
+RANK N64_day185_diff logb 6 sequential 0.01 12 2,4,5,6,6,6,10,12,8,4,2
+RANK N64_day185_diff logb 6 sequential 0.001 19 2,4,7,10,13,12,19,16,8,4,2
+RANK N64_day185_diff logb 6 sequential 0.0001 29 2,4,8,13,19,20,29,16,8,4,2
+RANK N64_day185_diff logb 6 sequential 1.0e-6 36 2,4,8,16,26,36,32,16,8,4,2
+QTT N64_day185_diff logb 6 sequential 0.1 6 312 5.077e-02 2.384e-01
+QTT N64_day185_diff logb 6 sequential 0.03 11 746 1.693e-02 9.248e-02
+QTT N64_day185_diff logb 6 sequential 0.01 15 1342 5.207e-03 2.796e-02
+QTT N64_day185_diff logb 6 sequential 0.003 18 2032 1.667e-03 1.222e-02
+QTT N64_day185_diff logb 6 sequential 0.001 25 3030 4.669e-04 5.274e-03
+QTT N64_day185_diff logb 6 sequential 0.0003 29 3974 1.232e-04 6.672e-04
+QTT N64_day185_diff logb 6 sequential 0.0001 31 4724 4.262e-05 2.965e-04
+QTT N64_day185_diff logb 6 sequential 3.0e-5 32 5458 1.186e-05 1.168e-04
+QTT N64_day185_diff logb 6 sequential 1.0e-5 33 6266 2.418e-06 1.707e-05
+AMR N64_day185_diff logb 6 0.1 970 768 16 2.067e-02 9.870e-02
+AMR N64_day185_diff logb 6 0.03 1399 1172 16 7.217e-03 2.959e-02
+AMR N64_day185_diff logb 6 0.01 1888 1672 16 3.005e-03 9.853e-03
+AMR N64_day185_diff logb 6 0.003 2503 2252 8 7.479e-04 2.985e-03
+AMR N64_day185_diff logb 6 0.001 2923 2728 4 2.248e-04 9.964e-04
+AMR N64_day185_diff logb 6 0.0003 3259 3044 4 7.560e-05 2.975e-04
+AMR N64_day185_diff logb 6 0.0001 3883 3812 2 1.605e-05 9.966e-05
+TAG N64_day185_diff logb 6 0.01 2325 2530
+TAG N64_day185_diff logb 6 0.05 1375 1678
+RANK N64_day185_diff qmag 6 interleaved 0.01 18 2,4,7,11,18,17,14,8,6,4,2
+RANK N64_day185_diff qmag 6 interleaved 0.001 26 2,4,7,13,23,26,23,12,8,4,2
+RANK N64_day185_diff qmag 6 interleaved 0.0001 36 2,4,8,16,27,36,30,16,8,4,2
+RANK N64_day185_diff qmag 6 interleaved 1.0e-6 48 2,4,8,16,32,48,32,16,8,4,2
+QTT N64_day185_diff qmag 6 interleaved 0.1 12 1014 6.164e-02 8.234e-02
+QTT N64_day185_diff qmag 6 interleaved 0.03 18 2112 1.625e-02 2.058e-02
+QTT N64_day185_diff qmag 6 interleaved 0.01 21 2872 4.667e-03 4.895e-03
+QTT N64_day185_diff qmag 6 interleaved 0.003 26 4076 1.666e-03 1.298e-03
+QTT N64_day185_diff qmag 6 interleaved 0.001 31 5362 5.365e-04 4.327e-04
+QTT N64_day185_diff qmag 6 interleaved 0.0003 36 6608 1.257e-04 9.403e-05
+QTT N64_day185_diff qmag 6 interleaved 0.0001 38 7268 3.737e-05 3.642e-05
+QTT N64_day185_diff qmag 6 interleaved 3.0e-5 42 7988 1.032e-05 1.503e-05
+QTT N64_day185_diff qmag 6 interleaved 1.0e-5 45 8488 2.467e-06 2.293e-06
+RANK N64_day185_diff qmag 6 sequential 0.01 12 2,4,6,7,7,6,11,12,8,4,2
+RANK N64_day185_diff qmag 6 sequential 0.001 19 2,4,8,11,13,12,19,16,8,4,2
+RANK N64_day185_diff qmag 6 sequential 0.0001 27 2,4,8,14,20,19,27,16,8,4,2
+RANK N64_day185_diff qmag 6 sequential 1.0e-6 38 2,4,8,16,27,38,32,16,8,4,2
+QTT N64_day185_diff qmag 6 sequential 0.1 8 468 6.068e-02 4.504e-02
+QTT N64_day185_diff qmag 6 sequential 0.03 12 944 1.638e-02 1.257e-02
+QTT N64_day185_diff qmag 6 sequential 0.01 15 1508 5.575e-03 5.120e-03
+QTT N64_day185_diff qmag 6 sequential 0.003 19 2240 1.423e-03 8.414e-04
+QTT N64_day185_diff qmag 6 sequential 0.001 23 2930 5.098e-04 4.447e-04
+QTT N64_day185_diff qmag 6 sequential 0.0003 27 3858 1.360e-04 1.013e-04
+QTT N64_day185_diff qmag 6 sequential 0.0001 31 4860 4.340e-05 3.451e-05
+QTT N64_day185_diff qmag 6 sequential 3.0e-5 32 5656 1.337e-05 8.999e-06
+QTT N64_day185_diff qmag 6 sequential 1.0e-5 34 6380 3.822e-06 3.759e-06
+AMR N64_day185_diff qmag 6 0.1 619 448 32 1.508e-01 9.764e-02
+AMR N64_day185_diff qmag 6 0.03 889 672 16 4.447e-02 2.908e-02
+AMR N64_day185_diff qmag 6 0.01 1129 872 16 1.910e-02 9.989e-03
+AMR N64_day185_diff qmag 6 0.003 1579 1280 16 7.444e-03 2.977e-03
+AMR N64_day185_diff qmag 6 0.001 2272 1992 8 2.209e-03 9.973e-04
+AMR N64_day185_diff qmag 6 0.0003 2893 2696 8 4.373e-04 2.978e-04
+AMR N64_day185_diff qmag 6 0.0001 3157 2976 4 1.269e-04 9.909e-05
+TAG N64_day185_diff qmag 6 0.01 1088 1576
+TAG N64_day185_diff qmag 6 0.05 556 919
+RANK N64_day185_diff K 6 interleaved 0.01 19 2,4,7,12,18,19,16,10,6,4,2
+RANK N64_day185_diff K 6 interleaved 0.001 27 2,4,8,14,23,27,26,15,8,4,2
+RANK N64_day185_diff K 6 interleaved 0.0001 37 2,4,8,16,28,37,30,16,8,4,2
+RANK N64_day185_diff K 6 interleaved 1.0e-6 53 2,4,8,16,32,53,32,16,8,4,2
+QTT N64_day185_diff K 6 interleaved 0.1 14 1246 6.746e-02 8.674e-02
+QTT N64_day185_diff K 6 interleaved 0.03 19 2432 1.610e-02 1.695e-02
+QTT N64_day185_diff K 6 interleaved 0.01 24 3644 6.013e-03 7.183e-03
+QTT N64_day185_diff K 6 interleaved 0.003 27 4702 1.638e-03 1.118e-03
+QTT N64_day185_diff K 6 interleaved 0.001 32 5892 4.539e-04 4.173e-04
+QTT N64_day185_diff K 6 interleaved 0.0003 37 6934 1.221e-04 1.730e-04
+QTT N64_day185_diff K 6 interleaved 0.0001 42 7872 3.380e-05 3.104e-05
+QTT N64_day185_diff K 6 interleaved 3.0e-5 45 8488 8.806e-06 1.159e-05
+QTT N64_day185_diff K 6 interleaved 1.0e-5 50 9128 2.564e-06 1.956e-06
+RANK N64_day185_diff K 6 sequential 0.01 12 2,4,6,8,7,6,11,12,8,4,2
+RANK N64_day185_diff K 6 sequential 0.001 20 2,4,8,12,14,12,20,16,8,4,2
+RANK N64_day185_diff K 6 sequential 0.0001 28 2,4,8,15,23,21,28,16,8,4,2
+RANK N64_day185_diff K 6 sequential 1.0e-6 49 2,4,8,16,32,49,32,16,8,4,2
+QTT N64_day185_diff K 6 sequential 0.1 7 474 5.979e-02 5.666e-02
+QTT N64_day185_diff K 6 sequential 0.03 12 996 1.436e-02 1.158e-02
+QTT N64_day185_diff K 6 sequential 0.01 14 1548 5.163e-03 4.041e-03
+QTT N64_day185_diff K 6 sequential 0.003 20 2408 1.290e-03 8.587e-04
+QTT N64_day185_diff K 6 sequential 0.001 23 3176 4.490e-04 2.781e-04
+QTT N64_day185_diff K 6 sequential 0.0003 28 4290 1.393e-04 1.017e-04
+QTT N64_day185_diff K 6 sequential 0.0001 31 5742 4.778e-05 3.348e-05
+QTT N64_day185_diff K 6 sequential 3.0e-5 38 7160 1.135e-05 1.581e-05
+QTT N64_day185_diff K 6 sequential 1.0e-5 44 8120 4.127e-06 5.039e-06
+AMR N64_day185_diff K 6 0.1 577 420 32 1.494e-01 9.710e-02
+AMR N64_day185_diff K 6 0.03 796 584 16 4.571e-02 2.911e-02
+AMR N64_day185_diff K 6 0.01 1021 764 16 1.872e-02 9.983e-03
+AMR N64_day185_diff K 6 0.003 1357 1068 16 8.326e-03 2.989e-03
+AMR N64_day185_diff K 6 0.001 1879 1580 8 2.708e-03 9.963e-04
+AMR N64_day185_diff K 6 0.0003 2650 2372 8 7.191e-04 2.980e-04
+AMR N64_day185_diff K 6 0.0001 3253 3024 4 2.072e-04 9.776e-05
+TAG N64_day185_diff K 6 0.01 838 1333
+TAG N64_day185_diff K 6 0.05 470 820
+RANK N64_day200_diff h 6 interleaved 0.01 9 2,4,6,9,9,9,8,5,4,3,2
+RANK N64_day200_diff h 6 interleaved 0.001 20 2,4,8,13,20,18,16,10,8,4,2
+RANK N64_day200_diff h 6 interleaved 0.0001 31 2,4,8,16,27,31,27,16,8,4,2
+RANK N64_day200_diff h 6 interleaved 1.0e-6 49 2,4,8,16,32,49,32,16,8,4,2
+QTT N64_day200_diff h 6 interleaved 0.1 4 150 6.022e-02 1.995e-01
+QTT N64_day200_diff h 6 interleaved 0.03 9 748 1.814e-02 8.733e-02
+QTT N64_day200_diff h 6 interleaved 0.01 15 1656 6.029e-03 3.615e-02
+QTT N64_day200_diff h 6 interleaved 0.003 20 2680 1.832e-03 1.545e-02
+QTT N64_day200_diff h 6 interleaved 0.001 25 4132 5.180e-04 2.672e-03
+QTT N64_day200_diff h 6 interleaved 0.0003 32 5864 1.289e-04 6.019e-04
+QTT N64_day200_diff h 6 interleaved 0.0001 37 7040 3.826e-05 1.672e-04
+QTT N64_day200_diff h 6 interleaved 3.0e-5 41 7748 1.374e-05 9.402e-05
+QTT N64_day200_diff h 6 interleaved 1.0e-5 45 8488 2.707e-06 1.327e-05
+RANK N64_day200_diff h 6 sequential 0.01 7 2,4,4,5,5,4,7,7,6,4,2
+RANK N64_day200_diff h 6 sequential 0.001 18 2,4,7,11,12,11,18,15,8,4,2
+RANK N64_day200_diff h 6 sequential 0.0001 29 2,4,8,14,20,21,29,16,8,4,2
+RANK N64_day200_diff h 6 sequential 1.0e-6 41 2,4,8,16,28,41,32,16,8,4,2
+QTT N64_day200_diff h 6 sequential 0.1 3 118 5.411e-02 1.639e-01
+QTT N64_day200_diff h 6 sequential 0.03 7 466 1.534e-02 6.507e-02
+QTT N64_day200_diff h 6 sequential 0.01 10 870 5.847e-03 5.762e-02
+QTT N64_day200_diff h 6 sequential 0.003 16 1846 1.710e-03 1.240e-02
+QTT N64_day200_diff h 6 sequential 0.001 23 3032 4.800e-04 2.688e-03
+QTT N64_day200_diff h 6 sequential 0.0003 29 4194 1.390e-04 5.588e-04
+QTT N64_day200_diff h 6 sequential 0.0001 32 5238 4.216e-05 3.076e-04
+QTT N64_day200_diff h 6 sequential 3.0e-5 32 6248 1.002e-05 5.484e-05
+QTT N64_day200_diff h 6 sequential 1.0e-5 36 6816 3.508e-06 2.324e-05
+AMR N64_day200_diff h 6 0.1 178 0 16 4.440e-02 9.936e-02
+AMR N64_day200_diff h 6 0.03 1003 708 16 1.717e-02 2.990e-02
+AMR N64_day200_diff h 6 0.01 1984 1688 8 4.357e-03 9.996e-03
+AMR N64_day200_diff h 6 0.003 2659 2368 4 1.281e-03 2.990e-03
+AMR N64_day200_diff h 6 0.001 3319 3064 4 3.523e-04 9.973e-04
+AMR N64_day200_diff h 6 0.0003 3916 3856 2 5.055e-05 2.972e-04
+AMR N64_day200_diff h 6 0.0001 4075 4068 2 5.355e-06 9.866e-05
+TAG N64_day200_diff h 6 0.01 3201 3370
+TAG N64_day200_diff h 6 0.05 979 1495
+RANK N64_day200_diff N 6 interleaved 0.01 9 2,4,6,9,9,8,7,5,4,2,2
+RANK N64_day200_diff N 6 interleaved 0.001 20 2,4,8,13,20,19,17,10,7,4,2
+RANK N64_day200_diff N 6 interleaved 0.0001 33 2,4,8,16,27,33,27,16,8,4,2
+RANK N64_day200_diff N 6 interleaved 1.0e-6 49 2,4,8,16,32,49,32,16,8,4,2
+QTT N64_day200_diff N 6 interleaved 0.1 4 126 5.629e-02 2.657e-01
+QTT N64_day200_diff N 6 interleaved 0.03 9 698 1.880e-02 1.218e-01
+QTT N64_day200_diff N 6 interleaved 0.01 14 1498 6.309e-03 5.478e-02
+QTT N64_day200_diff N 6 interleaved 0.003 20 2830 1.740e-03 1.952e-02
+QTT N64_day200_diff N 6 interleaved 0.001 26 4300 5.518e-04 4.487e-03
+QTT N64_day200_diff N 6 interleaved 0.0003 33 6070 1.323e-04 8.692e-04
+QTT N64_day200_diff N 6 interleaved 0.0001 38 7052 4.832e-05 3.923e-04
+QTT N64_day200_diff N 6 interleaved 3.0e-5 42 7988 8.642e-06 8.186e-05
+QTT N64_day200_diff N 6 interleaved 1.0e-5 45 8488 2.679e-06 1.969e-05
+RANK N64_day200_diff N 6 sequential 0.01 7 2,4,4,5,4,4,6,7,5,3,2
+RANK N64_day200_diff N 6 sequential 0.001 16 2,4,7,10,11,10,16,15,8,4,2
+RANK N64_day200_diff N 6 sequential 0.0001 28 2,4,8,14,20,20,28,16,8,4,2
+RANK N64_day200_diff N 6 sequential 1.0e-6 40 2,4,8,16,29,40,32,16,8,4,2
+QTT N64_day200_diff N 6 sequential 0.1 3 64 5.874e-02 2.450e-01
+QTT N64_day200_diff N 6 sequential 0.03 7 342 1.846e-02 1.372e-01
+QTT N64_day200_diff N 6 sequential 0.01 10 812 5.839e-03 3.973e-02
+QTT N64_day200_diff N 6 sequential 0.003 15 1592 1.837e-03 1.849e-02
+QTT N64_day200_diff N 6 sequential 0.001 21 2702 5.317e-04 4.981e-03
+QTT N64_day200_diff N 6 sequential 0.0003 28 3928 1.628e-04 1.116e-03
+QTT N64_day200_diff N 6 sequential 0.0001 31 5126 4.965e-05 4.249e-04
+QTT N64_day200_diff N 6 sequential 3.0e-5 32 6132 1.121e-05 1.423e-04
+QTT N64_day200_diff N 6 sequential 1.0e-5 35 6800 3.112e-06 2.682e-05
+AMR N64_day200_diff N 6 0.1 358 80 16 2.860e-02 9.963e-02
+AMR N64_day200_diff N 6 0.03 1456 1172 8 8.006e-03 2.994e-02
+AMR N64_day200_diff N 6 0.01 2194 1908 8 2.636e-03 9.966e-03
+AMR N64_day200_diff N 6 0.003 2923 2616 4 7.105e-04 2.981e-03
+AMR N64_day200_diff N 6 0.001 3649 3500 2 1.697e-04 9.995e-04
+AMR N64_day200_diff N 6 0.0003 4003 3972 2 2.299e-05 2.979e-04
+AMR N64_day200_diff N 6 0.0001 4090 4088 2 2.219e-06 9.152e-05
+TAG N64_day200_diff N 6 0.01 3093 3292
+TAG N64_day200_diff N 6 0.05 1348 1840
+RANK N64_day200_diff b 6 interleaved 0.01 22 2,4,7,13,22,20,18,9,7,4,2
+RANK N64_day200_diff b 6 interleaved 0.001 34 2,4,8,15,28,34,29,16,8,4,2
+RANK N64_day200_diff b 6 interleaved 0.0001 45 2,4,8,16,31,45,32,16,8,4,2
+RANK N64_day200_diff b 6 interleaved 1.0e-6 57 2,4,8,16,32,57,32,16,8,4,2
+QTT N64_day200_diff b 6 interleaved 0.1 14 1282 6.022e-02 1.278e-01
+QTT N64_day200_diff b 6 interleaved 0.03 22 2932 1.804e-02 3.507e-02
+QTT N64_day200_diff b 6 interleaved 0.01 27 4494 5.551e-03 1.268e-02
+QTT N64_day200_diff b 6 interleaved 0.003 35 6422 1.335e-03 2.307e-03
+QTT N64_day200_diff b 6 interleaved 0.001 40 7512 3.960e-04 4.960e-04
+QTT N64_day200_diff b 6 interleaved 0.0003 45 8366 8.457e-05 1.116e-04
+QTT N64_day200_diff b 6 interleaved 0.0001 48 8872 2.335e-05 3.671e-05
+QTT N64_day200_diff b 6 interleaved 3.0e-5 51 9256 7.676e-06 1.838e-05
+QTT N64_day200_diff b 6 interleaved 1.0e-5 54 9640 2.421e-06 3.293e-06
+RANK N64_day200_diff b 6 sequential 0.01 15 2,4,7,10,10,9,15,14,8,4,2
+RANK N64_day200_diff b 6 sequential 0.001 27 2,4,8,15,21,19,27,16,8,4,2
+RANK N64_day200_diff b 6 sequential 0.0001 32 2,4,8,16,27,31,32,16,8,4,2
+RANK N64_day200_diff b 6 sequential 1.0e-6 47 2,4,8,16,31,47,32,16,8,4,2
+QTT N64_day200_diff b 6 sequential 0.1 10 706 6.097e-02 6.284e-02
+QTT N64_day200_diff b 6 sequential 0.03 14 1548 1.722e-02 2.407e-02
+QTT N64_day200_diff b 6 sequential 0.01 20 2572 4.798e-03 1.047e-02
+QTT N64_day200_diff b 6 sequential 0.003 26 3818 1.523e-03 1.586e-03
+QTT N64_day200_diff b 6 sequential 0.001 31 5206 4.926e-04 7.628e-04
+QTT N64_day200_diff b 6 sequential 0.0003 32 6344 8.913e-05 1.072e-04
+QTT N64_day200_diff b 6 sequential 0.0001 36 6920 3.541e-05 4.795e-05
+QTT N64_day200_diff b 6 sequential 3.0e-5 40 7512 9.866e-06 1.078e-05
+QTT N64_day200_diff b 6 sequential 1.0e-5 44 8120 3.628e-06 3.844e-06
+AMR N64_day200_diff b 6 0.1 1096 844 16 9.747e-02 9.921e-02
+AMR N64_day200_diff b 6 0.03 1375 1108 8 3.997e-02 2.999e-02
+AMR N64_day200_diff b 6 0.01 1813 1464 8 1.671e-02 9.957e-03
+AMR N64_day200_diff b 6 0.003 2686 2416 4 4.828e-03 2.979e-03
+AMR N64_day200_diff b 6 0.001 3322 3140 4 1.133e-03 9.944e-04
+AMR N64_day200_diff b 6 0.0003 3751 3636 2 2.525e-04 2.991e-04
+AMR N64_day200_diff b 6 0.0001 3982 3944 2 5.094e-05 9.420e-05
+TAG N64_day200_diff b 6 0.01 2223 2749
+TAG N64_day200_diff b 6 0.05 931 1492
+RANK N64_day200_diff logb 6 interleaved 0.01 17 2,4,7,12,17,14,11,6,4,2,2
+RANK N64_day200_diff logb 6 interleaved 0.001 29 2,4,8,15,25,29,24,14,8,4,2
+RANK N64_day200_diff logb 6 interleaved 0.0001 42 2,4,8,16,30,42,32,16,8,4,2
+RANK N64_day200_diff logb 6 interleaved 1.0e-6 54 2,4,8,16,32,54,32,16,8,4,2
+QTT N64_day200_diff logb 6 interleaved 0.1 7 468 6.133e-02 3.077e-01
+QTT N64_day200_diff logb 6 interleaved 0.03 17 1576 1.668e-02 2.183e-01
+QTT N64_day200_diff logb 6 interleaved 0.01 22 2924 6.495e-03 6.416e-02
+QTT N64_day200_diff logb 6 interleaved 0.003 30 4930 1.685e-03 1.124e-02
+QTT N64_day200_diff logb 6 interleaved 0.001 36 6640 4.848e-04 2.621e-03
+QTT N64_day200_diff logb 6 interleaved 0.0003 42 7872 9.465e-05 6.553e-04
+QTT N64_day200_diff logb 6 interleaved 0.0001 46 8492 3.102e-05 2.667e-04
+QTT N64_day200_diff logb 6 interleaved 3.0e-5 49 9000 7.887e-06 9.019e-05
+QTT N64_day200_diff logb 6 interleaved 1.0e-5 51 9256 2.936e-06 2.987e-05
+RANK N64_day200_diff logb 6 sequential 0.01 13 2,4,7,8,8,8,13,13,8,4,2
+RANK N64_day200_diff logb 6 sequential 0.001 25 2,4,8,14,19,18,25,16,8,4,2
+RANK N64_day200_diff logb 6 sequential 0.0001 32 2,4,8,15,26,30,32,16,8,4,2
+RANK N64_day200_diff logb 6 sequential 1.0e-6 46 2,4,8,16,31,46,32,16,8,4,2
+QTT N64_day200_diff logb 6 sequential 0.1 5 314 6.565e-02 3.214e-01
+QTT N64_day200_diff logb 6 sequential 0.03 13 1056 1.719e-02 1.449e-01
+QTT N64_day200_diff logb 6 sequential 0.01 17 1966 6.145e-03 5.558e-02
+QTT N64_day200_diff logb 6 sequential 0.003 25 3564 1.379e-03 8.838e-03
+QTT N64_day200_diff logb 6 sequential 0.001 29 4674 5.153e-04 3.762e-03
+QTT N64_day200_diff logb 6 sequential 0.0003 32 6016 1.082e-04 6.325e-04
+QTT N64_day200_diff logb 6 sequential 0.0001 35 6698 3.432e-05 3.725e-04
+QTT N64_day200_diff logb 6 sequential 3.0e-5 39 7280 1.136e-05 9.707e-05
+QTT N64_day200_diff logb 6 sequential 1.0e-5 42 7756 3.692e-06 2.966e-05
+AMR N64_day200_diff logb 6 0.1 1348 1112 16 2.570e-02 9.901e-02
+AMR N64_day200_diff logb 6 0.03 1930 1664 8 7.809e-03 2.938e-02
+AMR N64_day200_diff logb 6 0.01 2545 2260 4 2.686e-03 9.922e-03
+AMR N64_day200_diff logb 6 0.003 3226 3012 4 6.685e-04 2.990e-03
+AMR N64_day200_diff logb 6 0.001 3682 3568 4 1.576e-04 9.985e-04
+AMR N64_day200_diff logb 6 0.0003 3937 3884 2 3.230e-05 2.976e-04
+AMR N64_day200_diff logb 6 0.0001 4072 4064 2 4.718e-06 9.973e-05
+TAG N64_day200_diff logb 6 0.01 3212 3493
+TAG N64_day200_diff logb 6 0.05 1797 2233
+RANK N64_day200_diff qmag 6 interleaved 0.01 18 2,4,7,13,18,16,14,7,6,4,2
+RANK N64_day200_diff qmag 6 interleaved 0.001 28 2,4,8,15,26,28,23,13,8,4,2
+RANK N64_day200_diff qmag 6 interleaved 0.0001 40 2,4,8,16,30,40,31,16,8,4,2
+RANK N64_day200_diff qmag 6 interleaved 1.0e-6 57 2,4,8,16,32,57,32,16,8,4,2
+QTT N64_day200_diff qmag 6 interleaved 0.1 11 902 6.309e-02 7.127e-02
+QTT N64_day200_diff qmag 6 interleaved 0.03 19 2110 1.659e-02 1.890e-02
+QTT N64_day200_diff qmag 6 interleaved 0.01 23 3246 5.301e-03 5.761e-03
+QTT N64_day200_diff qmag 6 interleaved 0.003 29 4774 1.666e-03 3.123e-03
+QTT N64_day200_diff qmag 6 interleaved 0.001 36 6360 4.776e-04 5.238e-04
+QTT N64_day200_diff qmag 6 interleaved 0.0003 41 7634 1.274e-04 1.858e-04
+QTT N64_day200_diff qmag 6 interleaved 0.0001 45 8366 3.565e-05 4.047e-05
+QTT N64_day200_diff qmag 6 interleaved 3.0e-5 50 9128 8.217e-06 9.138e-06
+QTT N64_day200_diff qmag 6 interleaved 1.0e-5 53 9512 2.892e-06 4.030e-06
+RANK N64_day200_diff qmag 6 sequential 0.01 12 2,4,7,8,8,8,12,12,8,4,2
+RANK N64_day200_diff qmag 6 sequential 0.001 23 2,4,8,14,18,16,23,16,8,4,2
+RANK N64_day200_diff qmag 6 sequential 0.0001 30 2,4,8,16,26,27,30,16,8,4,2
+RANK N64_day200_diff qmag 6 sequential 1.0e-6 47 2,4,8,16,31,47,32,16,8,4,2
+QTT N64_day200_diff qmag 6 sequential 0.1 8 538 4.976e-02 4.707e-02
+QTT N64_day200_diff qmag 6 sequential 0.03 12 1092 1.622e-02 1.343e-02
+QTT N64_day200_diff qmag 6 sequential 0.01 17 2036 5.021e-03 5.258e-03
+QTT N64_day200_diff qmag 6 sequential 0.003 23 3200 1.407e-03 1.425e-03
+QTT N64_day200_diff qmag 6 sequential 0.001 28 4392 4.634e-04 3.196e-04
+QTT N64_day200_diff qmag 6 sequential 0.0003 31 5582 1.220e-04 9.947e-05
+QTT N64_day200_diff qmag 6 sequential 0.0001 33 6560 3.140e-05 3.144e-05
+QTT N64_day200_diff qmag 6 sequential 3.0e-5 38 7268 9.777e-06 8.427e-06
+QTT N64_day200_diff qmag 6 sequential 1.0e-5 43 7996 2.402e-06 2.506e-06
+AMR N64_day200_diff qmag 6 0.1 940 704 16 1.176e-01 9.836e-02
+AMR N64_day200_diff qmag 6 0.03 1225 968 16 4.145e-02 2.954e-02
+AMR N64_day200_diff qmag 6 0.01 1480 1188 8 1.786e-02 9.821e-03
+AMR N64_day200_diff qmag 6 0.003 1912 1548 8 6.925e-03 2.935e-03
+AMR N64_day200_diff qmag 6 0.001 2788 2460 4 2.025e-03 9.983e-04
+AMR N64_day200_diff qmag 6 0.0003 3544 3404 4 3.152e-04 2.999e-04
+AMR N64_day200_diff qmag 6 0.0001 3763 3664 4 8.957e-05 9.814e-05
+TAG N64_day200_diff qmag 6 0.01 1252 1846
+TAG N64_day200_diff qmag 6 0.05 759 1246
+RANK N64_day200_diff K 6 interleaved 0.01 20 2,4,7,13,20,19,17,10,6,4,2
+RANK N64_day200_diff K 6 interleaved 0.001 30 2,4,8,15,26,30,26,15,8,4,2
+RANK N64_day200_diff K 6 interleaved 0.0001 42 2,4,8,16,31,42,32,16,8,4,2
+RANK N64_day200_diff K 6 interleaved 1.0e-6 57 2,4,8,16,32,57,32,16,8,4,2
+QTT N64_day200_diff K 6 interleaved 0.1 14 1310 6.113e-02 1.223e-01
+QTT N64_day200_diff K 6 interleaved 0.03 20 2610 1.650e-02 2.560e-02
+QTT N64_day200_diff K 6 interleaved 0.01 25 3974 6.303e-03 8.608e-03
+QTT N64_day200_diff K 6 interleaved 0.003 30 5418 1.319e-03 2.330e-03
+QTT N64_day200_diff K 6 interleaved 0.001 36 6816 3.769e-04 8.157e-04
+QTT N64_day200_diff K 6 interleaved 0.0003 43 8114 9.879e-05 9.607e-05
+QTT N64_day200_diff K 6 interleaved 0.0001 46 8616 2.837e-05 3.192e-05
+QTT N64_day200_diff K 6 interleaved 3.0e-5 51 9256 7.162e-06 8.808e-06
+QTT N64_day200_diff K 6 interleaved 1.0e-5 54 9640 2.245e-06 4.326e-06
+RANK N64_day200_diff K 6 sequential 0.01 11 2,4,7,9,9,8,11,11,8,4,2
+RANK N64_day200_diff K 6 sequential 0.001 21 2,4,8,14,18,15,21,16,8,4,2
+RANK N64_day200_diff K 6 sequential 0.0001 31 2,4,8,16,26,26,31,16,8,4,2
+RANK N64_day200_diff K 6 sequential 1.0e-6 50 2,4,8,16,32,50,32,16,8,4,2
+QTT N64_day200_diff K 6 sequential 0.1 8 596 4.927e-02 6.270e-02
+QTT N64_day200_diff K 6 sequential 0.03 11 1146 1.554e-02 1.545e-02
+QTT N64_day200_diff K 6 sequential 0.01 14 1796 6.133e-03 5.769e-03
+QTT N64_day200_diff K 6 sequential 0.003 21 2994 1.480e-03 2.465e-03
+QTT N64_day200_diff K 6 sequential 0.001 27 4050 5.034e-04 6.470e-04
+QTT N64_day200_diff K 6 sequential 0.0003 31 5552 1.064e-04 1.157e-04
+QTT N64_day200_diff K 6 sequential 0.0001 32 6440 3.705e-05 4.121e-05
+QTT N64_day200_diff K 6 sequential 3.0e-5 39 7500 1.110e-05 1.844e-05
+QTT N64_day200_diff K 6 sequential 1.0e-5 45 8488 2.988e-06 2.825e-06
+AMR N64_day200_diff K 6 0.1 880 648 16 1.277e-01 9.780e-02
+AMR N64_day200_diff K 6 0.03 1180 916 16 3.331e-02 2.952e-02
+AMR N64_day200_diff K 6 0.01 1414 1124 8 1.307e-02 9.900e-03
+AMR N64_day200_diff K 6 0.003 1726 1348 8 5.630e-03 2.959e-03
+AMR N64_day200_diff K 6 0.001 2371 2024 4 2.168e-03 9.979e-04
+AMR N64_day200_diff K 6 0.0003 3241 3028 4 4.753e-04 2.993e-04
+AMR N64_day200_diff K 6 0.0001 3781 3676 2 1.171e-04 9.951e-05
+TAG N64_day200_diff K 6 0.01 1032 1663
+TAG N64_day200_diff K 6 0.05 704 1189

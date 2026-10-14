@@ -10,30 +10,25 @@ include("utilities.jl")
 include("mpo_inverse.jl")
 ITensors.disable_warn_order()
 
-N = 14
-sites = siteinds("S=1/2", N)
-dt = 0.001
-dx = 0.001
-cutoff = 1e-15
+N = 18
+L_start = -10.0
+L_end = 10.0
+N_phys = N
+dx = (L_end - L_start) / (2^N_phys - 1)  
+x_values = range(L_start, L_end, length = 2^N)
+dt = dx               
 steps = 10000
 nu = 0.01
-# for mpo inverse
-cutoff_inverse = 1e-13
-max_sweeps = 5
-tol = 1e-11
-# for TT cross
-x_values = range(-7, 7, length = 2^N)
-maxbonddim = 100 
-tolerance = 1e-12
-# for random initial state reproducibility of results
-Random.seed!(1234)
-# for tracking the minimum and maximum
-print_details = false
-# for the boundary conditions 
+cutoff = 1e-15
+max_sweeps = 3
+cutoff_inverse = 1e-15
+tol = 1e-15
+maxbonddim = 100
+tolerance = 1e-15
+plot_every = 1000
 fixed_boundary_conditions = false
 pbc = !fixed_boundary_conditions
-# how many time steps to plot
-plot_every = 1000
+print_details = false
 
 # Getting the initial state
 
@@ -44,7 +39,8 @@ plot_every = 1000
 # sites, mps = tt_cross(x -> sin(pi*x), x_values, maxbonddim, tolerance)
 # sites, mps = tt_cross(x -> exp(-(x^2)/2), x_values, maxbonddim, tolerance)
 function tmp_fun(x)
-    return exp(-((x-1)^2)/2) - exp(-((x+1)^2)/2)
+    # return exp(-((x-1)^2)/2) - exp(-((x+1)^2)/2)
+    return 1.0 * exp(-(x^2) / 0.5)
 end
 sites, mps = tt_cross(tmp_fun, x_values, maxbonddim, tolerance)
 
@@ -72,11 +68,11 @@ function get_inverse_of_B(sites, dt, dx, cutoff_inverse, max_sweeps, tol, nu, pb
     res_opsum += 25,"Id",1
 
     L_opsum = OpSum()
-    L_opsum = sr1(N, pbc)/(dx^2)
-    L_opsum -= 2/(dx^2),"Id",1
-    L_opsum += sl1(N, pbc)/(dx^2)
+    L_opsum = sr1(N, pbc)
+    L_opsum -= 2,"Id",1
+    L_opsum += sl1(N, pbc)
 
-    res_opsum -= nu*12*dt*L_opsum
+    res_opsum -= nu*12*dt*L_opsum/(dx^2)
 
     mpo = MPO(res_opsum, sites)
 
@@ -139,19 +135,48 @@ function time_evolution(steps, mps_list, mpo_A, dt, derivative_mpo)
 
 end
 
+function mps_to_list_efficient(mps, sites, num_samples; reverse_flag = false)
+
+    x_inds = []
+    y = []
+
+    step = (2^length(mps)-1)/(num_samples-1)
+    samples = (Int(round(i*step)) for i in 0:num_samples-1)
+
+    for decimal in samples
+    
+        state = digits(decimal; base=2, pad=N).+1
+
+        if reverse_flag
+            tmp = MPS(sites, state)
+        else
+            tmp = MPS(sites, reverse(state)) 
+        end
+
+        push!(x_inds, decimal + 1)
+        push!(y, inner(mps, tmp))
+
+    end
+
+    return x_inds, y
+
+end
+
 mps_list, D_list = time_evolution(steps, mps_list, mpo_A, dt, derivative_mpo)
-mps_list = map(x -> real(mps_to_list(x)), mps_list[1:plot_every:end])
+# mps_list = map(x -> real(mps_to_list_efficient(x, sites, 100)), mps_list[1:plot_every:end])
 
 # mps_list_heatmap = hcat(mps_list...)'
 # display(Plots.heatmap(mps_list_heatmap))
 
-f1 = h5open("/Users/takisangelides/CFD_MPS/Burgers_Equation/velocity.h5", "w")
-f2 = h5open("/Users/takisangelides/CFD_MPS/Burgers_Equation/bond_dimension.h5", "w")
+# f1 = h5open("$(@__DIR__)/velocity.h5", "w")
+# f2 = h5open("$(@__DIR__)/bond_dimension.h5", "w")
 p = Plots.plot(legend = false)
-for (element_idx, element) in enumerate(mps_list)
-    write(f1, "$(element_idx)", element)
-    write(f2, "$(element_idx)", D_list[element_idx])
-    Plots.plot!(p, element) # , label = "$(element_idx)"
+for (element_idx, element) in enumerate(mps_list[1:plot_every:end])
+    # write(f1, "$(element_idx)", element)
+    # write(f2, "$(element_idx)", D_list[element_idx])
+    # Plots.plot!(p, element) # , label = "$(element_idx)"
+    x, y = mps_to_list_efficient(element, sites, 1000)
+    Plots.plot!(p, x.*dx .- (L_end - L_start)/2, real(y)) #, xlims = (-1.0, 1.0)) # , label = "$(element_idx)"
 end
 display(p)
 

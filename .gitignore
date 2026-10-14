@@ -1,2 +1,9 @@
 /.DS_Store
 /.vscode
+# machine-specific Julia preferences
+/LocalPreferences.toml
+
+# data and run output (regenerable, GBs): keep the code, not the arrays/logs
+*.h5
+*.out
+*.jld2
